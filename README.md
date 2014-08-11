@@ -8,31 +8,31 @@ Festival Internacional de Cine Universitario
 
 * ?Sedes Alternas
 
-## Copy-Maniacs
+# Copy-Maniacs
 
 (material necesario para completar el sitio web) *falta rotoscopio y blog/t./
 
 * Meta: descripción y títulos para: Index.html, Rotoscopio.html y 404.html
 
-- Acercadelfestival
+## Acercadelfestival
 * (Presentación): introducción al Festival
 * Retroscopio: texto de presentación edición 2015
 * (Catálogo y Programa): texto descriptivo
 
-- Registro
+## Registro
 * (Sigue estos pasos): 5 pasos para registrarse
 DOCS: 
 * Bases de la convocatoria
 * Solicitud
 * (*revisar y acordar los páneles)
 
-- Contacto
+## Contacto
 *(*revisar los títulos)
 * Instagram?
 * Actualización de contactos.
 
-- F.A.Q.
+## F.A.Q.
 * The whole fucking thing.
 
-- Footer
+## Footer
 * (*revisar los títulos)
