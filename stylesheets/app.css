@@ -8543,7 +8543,7 @@ hr {
   transition: ease 1.5s 2.9s;
 }
 
-@media only screen and (min-device-width: 0em) and (max-device-width: em) {
+@media only screen and (min-device-width: 0em) and (max-device-width: 64em) {
   /* line 446, ../scss/app.scss */
   .animated {
     width: 62%;
