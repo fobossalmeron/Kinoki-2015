@@ -27,7 +27,7 @@ DOCS:
 * (*revisar y acordar los páneles)
 
 ## Contacto
-*(*revisar los títulos)
+* (*revisar los títulos)
 * Instagram?
 * Actualización de contactos.
 
