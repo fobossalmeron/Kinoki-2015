@@ -105,6 +105,15 @@ p{
 	color:$blanco;
 }
 
+a{
+	color: #FFFFFF;
+	font-weight: 400;
+	
+	&:hover{
+	color: #FFFFFF;
+	}
+}
+
 .no-bullets{
 	list-style: none;
 }
@@ -129,7 +138,7 @@ hr{
 
 .divamarillo {
 	background-color: $amarillo; 
-	background: url(/Kinoki-2015/images/amarillobg.svg) no-repeat center center fixed;
+	background: url(/images/amarillobg.svg) no-repeat center center fixed;
     @include backgroundcover;
 	padding: 100px 0 30px 0;
 	margin-bottom: 5px;
@@ -138,7 +147,7 @@ hr{
 
 .divnaranja {
 	background-color: $naranja;
-	background: url(/Kinoki-2015/images/naranjabg.svg) no-repeat center center fixed;
+	background: url(/images/naranjabg.svg) no-repeat center center fixed;
     @include backgroundcover;
 	padding: 100px 0 30px 0;
 	margin-bottom: 5px;
@@ -188,8 +197,12 @@ hr{
 
 //noticias
 
-.orbit-container img {
-	width:100%;
+.orbit-container {
+	@include single-box-shadow(rgba(0,0,0,0.15), 4px, 4px, 0, 0);
+
+	img {
+		width:100%;
+		}
 }
 
 .caption {
@@ -443,6 +456,12 @@ line-height: 1.3em;
 and (min-device-width : 0em) 
 and (max-device-width : 64em){
 	
+#construccion{
+p{
+font-size: 3em !important;
+}
+}
+	
 .animated {
 	width: 62%;
 	margin: 5% 0 0 15%;
@@ -674,4 +693,19 @@ svg{
 #logopruebaslisto{
 	width:500px;
 	height:500px;
+}
+
+
+//bajo construccion
+
+#construccion{
+	height:100%;
+
+p{
+	text-align: center;
+font-size: 4em;
+margin-bottom: 20%;
+margin-top: 5%;
+}
+
 }
