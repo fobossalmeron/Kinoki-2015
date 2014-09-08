@@ -10,9 +10,7 @@ Festival Internacional de Cine Universitario
 
 # Copy-Maniacs
 
-(material necesario para completar el sitio web) *falta rotoscopio y blog/t./
-
-* Meta: descripción y títulos para: Index.html, Rotoscopio.html y 404.html
+(material necesario para completar el sitio web) *falta rotoscopio
 
 ## Acercadelfestival
 * (Presentación): introducción al Festival
@@ -22,17 +20,9 @@ Festival Internacional de Cine Universitario
 ## Registro
 * (Sigue estos pasos): 5 pasos para registrarse
 DOCS: 
-* Bases de la convocatoria
-* Solicitud
+* Lineamientos
+* Ficha de Registro
 * (*revisar y acordar los páneles)
-
-## Contacto
-* (*revisar los títulos)
-* Instagram?
-* Actualización de contactos.
 
 ## F.A.Q.
 * The whole fucking thing.
-
-## Footer
-* (*revisar los títulos)

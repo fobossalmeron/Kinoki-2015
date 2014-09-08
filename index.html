@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="KINOKI | Festival Internacional de Cine Universitario 2015">
+    <meta name="description" content="KINOKI | Festival Internacional de Cine Universitario | Decimoprimera Edición | 2015">
 	<meta name="author" content="Rodrigo Salmerón">
     <title>KINOKI | Festival Internacional de Cine Universitario</title>
     <link rel="shortcut icon" href="images/favicon.ico" />
@@ -11,9 +11,12 @@
     <script src="bower_components/modernizr/modernizr.js"></script>
     <script src="http://code.jquery.com/jquery-latest.js"></script>
     <script src="js/logosvganimado.js"></script>
+    <!-- <?php 
+define('WP_USE_THEMES', false);
+require('./blog/wp-blog-header.php');
+?> -->
   </head>
   <body>
- 
 <div class="pegado">
   <nav class="menu-opener">
     <div class="menu-opener-inner"></div>
@@ -159,50 +162,64 @@ En esta edición se hizo un homenaje al cine mexicano, celebrando así los 50 a�
   </div>
 </div>
 
-  
+<div class="row">
+  <div class="small-11 small-centered large-12 columns">
+      <h3 class="pshadow hideme">Actividades Paralelas</h3>
+      <hr>
+          <p>Texto descriptivo acerca de las realidades alternas, el cosmos, las muñecas de porcelana y el nuevo orden mundial.</p>
+          
+ </div>
+</div> 
+
+<!--
 <div class="row" data-equalizer>
  <div class="small-11 small-centered large-12 columns">
+ 
       <h3 class="pshadow" id="trigger1">Catálogo y Programa</h3>
       <hr>  
-      <p id="animate1">El Festival Internacional de Cine Universitario KINOKI surge de la necesidad de dar voz y difusión a los cineastas universitario de todo el mundo mostrando sus cortometrajes. Creado en el 2004 por alumnos de la Universidad Iberoamericana ha ido creciendo año tras año, llegando a ser unos de los festivales más importantes en México. El nombre Kinoki está basado en un movimiento que surge en Eurasia hacia 1922 con un hombre llamado Dziga Vertov. De él surgen conceptos como la Kino Pravda (cine-verdad) y Kino Glaz (cine-ojo) buscando expresar una verdad más profunda de la que percibe el ojo humano por medio del séptimo arte.</p>
+      <p id="animate1">De éstas ligas puedes descargar el Catálogo completo del festival y el Programa donde podrás revisar los horarios de las funciones.</p>
      
 
- <div class="small-12 small-centered medium-6 medium-uncentered large-5 large-push-1  columns">
+ <div class="small-12 small-centered medium-6 medium-uncentered large-5 large-push-1  columns"> 
       <div class="panel boxshadow" data-equalizer-watch>
           <h5><strong>Descarga el Catálogo</strong></h5>
-          <p>Puedes descargar el catálogo completo del festival.</p>
+          <p>Descarga el catálogo completo del festival.</p>
           <a href="#" class="small button">
-          <div class="pdf">
-	      <svg version="1.1" viewBox="0 0 92 100" preserveAspectRatio="xMinYMin meet" xml:space="preserve">
-	      <path class="pdfamarillo" d="M52.4 12.7v19.3h19.3v55.3H14.3v-74.6H52.4zM58 3.7H5.3v92.6H80.7V26.3L58 3.7zM64 52.7H53.1v15.3h3.8v-6.1h6.2v-3.1h-6.2v-2.9h7.2V52.7L64 52.7zM43.6 52.7h-6.6v15.3h6.7c2.2 0 4-0.7 5.3-2.2 2.3-2.7 2.4-8.5-0.3-11.2C47.4 53.3 45.7 52.7 43.6 52.7zM40.8 55.9h2.1c2 0 3.3 0.7 3.8 2.7 0.3 1.1 0.3 2.8-0.1 3.9 -0.5 1.5-1.6 2.2-3.1 2.2h-2.6L40.8 55.9 40.8 55.9zM29.4 52.7h-6.9v15.3h3.8v-5.3h3.2c2.6 0 4.4-1.2 5.1-3.2 0.4-1.2 0.4-2.5 0-3.7C33.8 53.8 31.9 52.7 29.4 52.7zM26.2 55.7h2.3c1 0 1.9 0.1 2.4 0.9 0.3 0.5 0.3 1.5 0 2 -0.5 0.8-1.4 0.9-2.4 0.9h-2.3v-3.9h0V55.7z"/></svg>  
-          </div><p class="buttonpdf">Catálogo PDF</p></a>           
+	          <div class="pdf">
+		      <svg version="1.1" viewBox="0 0 92 100" preserveAspectRatio="xMinYMin meet" xml:space="preserve">
+		      <path class="pdfamarillo" d="M52.4 12.7v19.3h19.3v55.3H14.3v-74.6H52.4zM58 3.7H5.3v92.6H80.7V26.3L58 3.7zM64 52.7H53.1v15.3h3.8v-6.1h6.2v-3.1h-6.2v-2.9h7.2V52.7L64 52.7zM43.6 52.7h-6.6v15.3h6.7c2.2 0 4-0.7 5.3-2.2 2.3-2.7 2.4-8.5-0.3-11.2C47.4 53.3 45.7 52.7 43.6 52.7zM40.8 55.9h2.1c2 0 3.3 0.7 3.8 2.7 0.3 1.1 0.3 2.8-0.1 3.9 -0.5 1.5-1.6 2.2-3.1 2.2h-2.6L40.8 55.9 40.8 55.9zM29.4 52.7h-6.9v15.3h3.8v-5.3h3.2c2.6 0 4.4-1.2 5.1-3.2 0.4-1.2 0.4-2.5 0-3.7C33.8 53.8 31.9 52.7 29.4 52.7zM26.2 55.7h2.3c1 0 1.9 0.1 2.4 0.9 0.3 0.5 0.3 1.5 0 2 -0.5 0.8-1.4 0.9-2.4 0.9h-2.3v-3.9h0V55.7z"/></svg>  
+	          </div>
+          <p class="buttonpdf">Catálogo PDF</p></a>           
 	  </div>
 </div>
 
 <div class="small-12 small-centered medium-6 medium-uncentered large-5 large-push-1 columns">
       <div class="panel boxshadow" data-equalizer-watch>
           <h5><strong>Descarga el Programa</strong></h5>
-          <p>Puedes descargar el programa y el calendario.</p>
+          <p>Descarga el programa y el calendario.</p>
           <a href="#" class="small button">
-          <div class="pdf">
-	      <svg version="1.1" viewBox="0 0 92 100" preserveAspectRatio="xMinYMin meet" xml:space="preserve">
-	      <path class="pdfamarillo" d="M52.4 12.7v19.3h19.3v55.3H14.3v-74.6H52.4zM58 3.7H5.3v92.6H80.7V26.3L58 3.7zM64 52.7H53.1v15.3h3.8v-6.1h6.2v-3.1h-6.2v-2.9h7.2V52.7L64 52.7zM43.6 52.7h-6.6v15.3h6.7c2.2 0 4-0.7 5.3-2.2 2.3-2.7 2.4-8.5-0.3-11.2C47.4 53.3 45.7 52.7 43.6 52.7zM40.8 55.9h2.1c2 0 3.3 0.7 3.8 2.7 0.3 1.1 0.3 2.8-0.1 3.9 -0.5 1.5-1.6 2.2-3.1 2.2h-2.6L40.8 55.9 40.8 55.9zM29.4 52.7h-6.9v15.3h3.8v-5.3h3.2c2.6 0 4.4-1.2 5.1-3.2 0.4-1.2 0.4-2.5 0-3.7C33.8 53.8 31.9 52.7 29.4 52.7zM26.2 55.7h2.3c1 0 1.9 0.1 2.4 0.9 0.3 0.5 0.3 1.5 0 2 -0.5 0.8-1.4 0.9-2.4 0.9h-2.3v-3.9h0V55.7z"/></svg>  
-          </div><p class="buttonpdf">Programa PDF</p></a>           
+	          <div class="pdf">
+		      <svg version="1.1" viewBox="0 0 92 100" preserveAspectRatio="xMinYMin meet" xml:space="preserve">
+		      <path class="pdfamarillo" d="M52.4 12.7v19.3h19.3v55.3H14.3v-74.6H52.4zM58 3.7H5.3v92.6H80.7V26.3L58 3.7zM64 52.7H53.1v15.3h3.8v-6.1h6.2v-3.1h-6.2v-2.9h7.2V52.7L64 52.7zM43.6 52.7h-6.6v15.3h6.7c2.2 0 4-0.7 5.3-2.2 2.3-2.7 2.4-8.5-0.3-11.2C47.4 53.3 45.7 52.7 43.6 52.7zM40.8 55.9h2.1c2 0 3.3 0.7 3.8 2.7 0.3 1.1 0.3 2.8-0.1 3.9 -0.5 1.5-1.6 2.2-3.1 2.2h-2.6L40.8 55.9 40.8 55.9zM29.4 52.7h-6.9v15.3h3.8v-5.3h3.2c2.6 0 4.4-1.2 5.1-3.2 0.4-1.2 0.4-2.5 0-3.7C33.8 53.8 31.9 52.7 29.4 52.7zM26.2 55.7h2.3c1 0 1.9 0.1 2.4 0.9 0.3 0.5 0.3 1.5 0 2 -0.5 0.8-1.4 0.9-2.4 0.9h-2.3v-3.9h0V55.7z"/></svg>  
+	          </div>
+	          <p class="buttonpdf">Programa PDF</p></a>         
 	  </div>
 </div>          
-          
+  
+</div>
+</div>
+-->
 
-        </div>
-      </div>
+
+      
     <a data-scroll-nav="2">
-    <div class="flecha normal">
-    <svg class="flechaguarda" version="1.1" preserveAspectRatio="xMinYMin meet" viewBox="0 0 40 40" xml:space="preserve">
-    <polygon class="flechatrazo" points="18.677,0 37.360,0 28.02,16.178 18.68,32.35 9.34,16.17 0,0 "/></svg>
-    </div>
+	    <div class="flecha normal">
+	    <svg class="flechaguarda" version="1.1" preserveAspectRatio="xMinYMin meet" viewBox="0 0 40 40" xml:space="preserve">
+	    <polygon class="flechatrazo" points="18.677,0 37.360,0 28.02,16.178 18.68,32.35 9.34,16.17 0,0 "/></svg>
+	    </div>
     </a>
-</div> 
-
-<!--fin.acercademi-->
+    
+</div> <!--fin.acercademi-->
 
 <!--noticias-->
 
@@ -217,29 +234,33 @@ En esta edición se hizo un homenaje al cine mexicano, celebrando así los 50 a�
       
       <div class="row">
       <div class="small-11 small-centered large-12 columns">
-      		<h3 class="pshadow">Noticias sobre el Kinoki 2015</h3>
+      		<h3 class="pshadow">Visita nuestro <a href="blog.festivalkinoki.com">Blog Oficial</a>.</h3>
       		<hr>
-          <p>Aquí puedes calar las noticias del cotorreo y así y así</p>
+          <p>Entérate de las últimas noticias, reseñas y eventos del Kinoki 2015.</p>
       </div>
       </div>
           <div class="row orbitnoticias">
             <div class="small-12 medium-centered columns">
             <ul class="example-orbit no-bullets" data-orbit>
-  <li data-orbit-slide="headline-1">
-    <div>
-      <img class="noticia" src="images/noticias/noticia1.jpg" alt="noticia1" />
-      <h3 class="caption">Dirección Cansada</h3>
-      <p class="caption">Bella Tarr se queda dormido en su proyección de Satantango</p>
+  <li data-orbit-slide="headline-1" id="noticiarecent1">
+    <div id="noticia1">
+   
+   <!--
+    <?php query_posts('showposts=1'); ?>
+<?php while (have_posts()): the_post(); ?>
+<?php the_title(); ?>
+<?php the_excerpt(); ?>
+<p><a href="<?php the_permalink(); ?>">Read more...</a></p>
+<?php endwhile; ?>
+	-->
+
     </div>
   </li>
-  <li data-orbit-slide="headline-2">
-    <div>
-    <img class="noticia" src="images/noticias/noticia2.jpg" alt="noticia2" />
-      <h3 class="caption">Thomas Vinterberg se corta el cabello</h3>
-      <p class="caption">El director de Fësten se hace un nuevo look</p>
+  <li data-orbit-slide="headline-2" id="noticiarecent2">
+    <div id="noticia2">
     </div>
   </li>
-  <li data-orbit-slide="headline-3">
+  <li data-orbit-slide="headline-3" id="noticiarecent3">
     <div>
     <img class="noticia" src="images/noticias/noticia3.jpg" alt="noticia3" />
       <h3 class="caption">Lars Von Trier se traslada</h3>
@@ -276,12 +297,12 @@ En esta edición se hizo un homenaje al cine mexicano, celebrando así los 50 a�
       		<hr>
           <ul class="no-bullets">
 	          <li>
-	          <h4>Consulta las bases</h4>
+	          <h4>Consulta los Lineamientos</h4>
 	          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nec pellentesque lacus. Mauris nec auctor felis. Nulla eu varius tellus. Cras sodales sapien luctus laoreet tincidunt. Vivamus porttitor feugiat felis ac porta. Aliquam tempor scelerisque rhoncus. In posuere tincidunt lectus, ac mattis leo fringilla nec. Nunc gravida tristique sem quis tempor. Aenean id elementum mi. Proin blandit tempor tellus, ut.</p>
 	          </li>
 	          
 	          <li>
-	          <h4>Descarga y llena la solicitud</h4>
+	          <h4>Descarga y llena la Ficha de Registro</h4>
 	          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nec pellentesque lacus. Mauris nec auctor felis. Nulla eu varius tellus. Cras sodales sapien luctus laoreet tincidunt. Vivamus porttitor feugiat felis ac porta. </p>
 	          </li>
 	          
@@ -300,13 +321,13 @@ En esta edición se hizo un homenaje al cine mexicano, celebrando así los 50 a�
       <div class="small-11 small-centered medium-5 medium-uncentered medium-push-1 large-4 large-uncentered large-push-1 columns">
       
       <div class="panel boxshadow">
-          <h5><strong>Consulta las Bases</strong></h5>
-          <p>Descarga este documento con las bases de la convocatoria.</p>
+          <h5><strong>Consulta los Lineamientos</strong></h5>
+          <p>Descarga este documento con los lineamientos del concurso.</p>
           <a href="#" class="small button">
           <div class="pdf">
 	      <svg version="1.1" viewBox="0 0 92 100" preserveAspectRatio="xMinYMin meet" xml:space="preserve">
 	      <path class="pdfnaranja" d="M52.4 12.7v19.3h19.3v55.3H14.3v-74.6H52.4zM58 3.7H5.3v92.6H80.7V26.3L58 3.7zM64 52.7H53.1v15.3h3.8v-6.1h6.2v-3.1h-6.2v-2.9h7.2V52.7L64 52.7zM43.6 52.7h-6.6v15.3h6.7c2.2 0 4-0.7 5.3-2.2 2.3-2.7 2.4-8.5-0.3-11.2C47.4 53.3 45.7 52.7 43.6 52.7zM40.8 55.9h2.1c2 0 3.3 0.7 3.8 2.7 0.3 1.1 0.3 2.8-0.1 3.9 -0.5 1.5-1.6 2.2-3.1 2.2h-2.6L40.8 55.9 40.8 55.9zM29.4 52.7h-6.9v15.3h3.8v-5.3h3.2c2.6 0 4.4-1.2 5.1-3.2 0.4-1.2 0.4-2.5 0-3.7C33.8 53.8 31.9 52.7 29.4 52.7zM26.2 55.7h2.3c1 0 1.9 0.1 2.4 0.9 0.3 0.5 0.3 1.5 0 2 -0.5 0.8-1.4 0.9-2.4 0.9h-2.3v-3.9h0V55.7z"/></svg>  
-          </div><p class="buttonpdf">Descargar Bases</p></a>         
+          </div><p class="buttonpdf">Descargar .PDF</p></a>         
         </div>
       
       </div>
@@ -315,7 +336,7 @@ En esta edición se hizo un homenaje al cine mexicano, celebrando así los 50 a�
       <div class="small-11 small-centered medium-5 medium-uncentered medium-push-1 large-4 large-uncentered large-push-1 columns">
             
       <div class="panel boxshadow">
-          <h5><strong>Descarga la Solicitud</strong></h5>
+          <h5><strong>Descarga la Ficha de Registro</strong></h5>
           <p>Puedes descargar el PDF y llenarlo a mano, o el .DOC y sólo firmarlo.</p>
           
           <a href="#" class="small button">
@@ -447,16 +468,13 @@ cesar.ortiz@festivalkinoki.com</p>
 <p>Diego Rodríguez <br>
 diego.rodriguez@festivalkinoki.com</p>
 
-<h5 class="textshadow-blanco">Prensa:</h5>
+<h5 class="textshadow-blanco">Difusión Interna:</h5>
 <p>Alejandra Quevedo<br>
 alejandra.quevedo@festivalkinoki.com</p>
 
+<h5 class="textshadow-blanco">Prensa:</h5>
 <p>Alonso Salamanca<br>
 alonso.salamanca@festivalkinoki.com</p>
-
-<h5 class="textshadow-blanco">Difusión:</h5>
-<p>Alguien<br>
-alguien@festivalkinoki.com</p>
 
 </div>
 </div>
@@ -469,15 +487,16 @@ alguien@festivalkinoki.com</p>
 cristina.moron@festivalkinoki.com</p>
 
 <h5 class="textshadow-blanco">Invitados:</h5>
-<p>Isabel Frías<br>
-isabel.frias@festivalkinoki.com</p>
-
 <p>Jorge de la Tijera<br>
 jorge.tijera@festivalkinoki.com</p>
 
-<h5 class="textshadow-blanco">Relaciones Públicas:</h5>
+<h5 class="textshadow-blanco">Sedes Alternas:</h5>
 <p>Paulina López<br>
-paulina.lopex@festivalkinoki.com</p>
+paulina.lopez@festivalkinoki.com</p>
+
+<h5 class="textshadow-blanco">Relaciones Públicas:</h5>
+<p>María José Corral<br>
+mariajose.corral@festivalkinoki.com</p>
 
 </div>
 </div>
@@ -577,10 +596,8 @@ Universidad Iberoamericana, Ciudad de México. Edificio I “Departamento de Com
       
       <div class="row">
       <div class="small-11 small-centered large-12 columns">
-      		<h3 class="pshadow">Patrocinador importante</h3>
-      		<hr>
           <ul class="small-block-grid-2 medium-block-grid-4">
-  <li><img src="images/patrocinio/patrocinador1.svg" alt="pat1"></li>
+  <li><img src="images/patrocinio/universidadiberoamericana.svg" alt="pat1"></li>
   <li><img src="images/patrocinio/patrocinador1.svg" alt="pat2"></li>
   <li><img src="images/patrocinio/patrocinador1.svg" alt="pat3"></li>
   <li><img src="images/patrocinio/patrocinador1.svg" alt="pat4"></li>
@@ -594,8 +611,6 @@ Universidad Iberoamericana, Ciudad de México. Edificio I “Departamento de Com
       
 	  <div class="row">
       <div class="small-11 small-centered large-12 columns">   
-          <h4 class="pshadow">Patrocinador no tan importante</h4>
-      		<hr>
               <ul class="small-block-grid-3 medium-block-grid-5">
   <li><img src="images/patrocinio/patrocinador1.svg" alt="pat1"></li>
   <li><img src="images/patrocinio/patrocinador1.svg" alt="pat2"></li>
@@ -610,7 +625,7 @@ Universidad Iberoamericana, Ciudad de México. Edificio I “Departamento de Com
   <li><img src="images/patrocinio/patrocinador1.svg" alt="pat11"></li>
   <li><img src="images/patrocinio/patrocinador1.svg" alt="pat12"></li>
   <li><img src="images/patrocinio/patrocinador1.svg" alt="pat13"></li>
-  <li><img src="images/patrocinio/patrocinador1.svg" alt="pat14"></li>
+  <li><img src="images/patrocinio/rodrigosalmeron.svg" alt="pat14"></li>
 </ul>   
 </div>
 	</div>   
@@ -619,7 +634,7 @@ Universidad Iberoamericana, Ciudad de México. Edificio I “Departamento de Com
       <div class="small-11 small-centered large-12 columns"> 
 <h4 class="pshadow">Media partners</h4>
       		<hr>
-              <ul class="small-block-grid-3 medium-block-grid-5">
+              <ul class="small-block-grid-4 medium-block-grid-6">
   <li><img src="images/patrocinio/patrocinador1.svg" alt="pat1"></li>
   <li><img src="images/patrocinio/patrocinador1.svg" alt="pat2"></li>
   <li><img src="images/patrocinio/patrocinador1.svg" alt="pat3"></li>
@@ -639,6 +654,28 @@ Universidad Iberoamericana, Ciudad de México. Edificio I “Departamento de Com
   
  </div>
       </div>
+
+<div class="row">
+      <div class="small-11 small-centered large-12 columns"> 
+<h4 class="pshadow">Colaboraciones</h4>
+      		<hr>
+              <ul class="small-block-grid-4 medium-block-grid-6">
+  <li><img src="images/patrocinio/patrocinador1.svg" alt="pat1"></li>
+  <li><img src="images/patrocinio/patrocinador1.svg" alt="pat2"></li>
+  <li><img src="images/patrocinio/patrocinador1.svg" alt="pat3"></li>
+  <li><img src="images/patrocinio/patrocinador1.svg" alt="pat4"></li>
+  <li><img src="images/patrocinio/patrocinador1.svg" alt="pat5"></li>
+  <li><img src="images/patrocinio/patrocinador1.svg" alt="pat6"></li>
+  <li><img src="images/patrocinio/patrocinador1.svg" alt="pat7"></li>
+  <li><img src="images/patrocinio/patrocinador1.svg" alt="pat8"></li>
+  <li><img src="images/patrocinio/patrocinador1.svg" alt="pat9"></li>
+  <li><img src="images/patrocinio/patrocinador1.svg" alt="pat10"></li>
+
+</ul>      
+  
+ </div>
+      </div>
+
       
 <a data-scroll-nav="0">
     <div class="flecha normal invertida">
@@ -719,7 +756,7 @@ Universidad Iberoamericana, Ciudad de México. Edificio I “Departamento de Com
       <ul class="small-block-grid-4 medium-block-grid-8">
       <li><a data-scroll-nav="0">Casa</a></li>
       <li><a data-scroll-nav="1">Información</a></li>
-      <li><a data-scroll-nav="2">Noticias</a></li>
+      <li><a data-scroll-nav="2">Blog</a></li>
       <li><a data-scroll-nav="3">Registro</a></li>
       <li><a data-scroll-nav="4">Contacto</a></li>
       <li><a data-scroll-nav="5">F.A.Q.</a></li>

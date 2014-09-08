@@ -165,3 +165,10 @@ $(document).ready(function(){
 	});
 	
 });
+
+//Ajax slider
+$(document).ready(function(){
+ 	 	$('#noticiarecent1').load('blogdata.html #noticia1');
+ 	 	$('#noticiarecent2').load('blogdata.html #noticia2');
+ 	 	$('#noticiarecent3').load('blogdata.html #noticia3');
+});

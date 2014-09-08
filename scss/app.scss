@@ -202,9 +202,15 @@ hr{
 
 	img {
 		width:100%;
+		//max-height: 474px;
 		}
 }
 
+.imgcontainer{
+	max-height: 474px;
+	overflow: hidden;
+	width:100%;
+}
 .caption {
 	color: $negro;
 	padding: 0 10px;
