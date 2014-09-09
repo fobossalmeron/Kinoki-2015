@@ -1,29 +1,33 @@
-# Foundation Compass Template
+# Kinoki 2015
 
-The easiest way to get started with Foundation + Compass.
+Festival Internacional de Cine Universitario
 
-## Requirements
+# Falta
 
-  * Ruby 1.9+
-  * [Node.js](http://nodejs.org)
-  * [compass](http://compass-style.org/): `gem install compass`
-  * [bower](http://bower.io): `npm install bower -g`
+## Acercadelfestival
+* (Presentación): introducción al Festival
+* Retroscopio: texto de presentación edición 2015
+* (Catálogo y Programa): texto descriptivo
+* Actividades Paralelas: texto descriptivo
+* Sedes Alternas? (Si van?)
 
-## Quickstart
+## Registro
+* (Sigue estos pasos): 5 pasos para registrarse
+DOCS: 
+* Lineamientos
+* Ficha de Registro
 
-  * [Download this starter compass project and unzip it](https://github.com/zurb/foundation-compass-template/archive/master.zip)
-  * Run `bower install` to install the latest version of Foundation
-  
-Then when you're working on your project, just run the following command:
+## F.A.Q.
+* Todo el FAQ
 
-```bash
-compass watch
-```
+## Retroscopio
+* Todo el retroscopio
 
-## Upgrading
+## Versión en inglés
 
-If you'd like to upgrade to a newer version of Foundation down the road just run:
-
-```bash
-bower update
-```
+#Diseño (si no eres Ro, ignora a partir de aquí):
+* 404 mobile
+* Buttons lost
+* PDF Buttons
+* Patrocinadores (ocultar)
+* Retroscopio (tab-size)
