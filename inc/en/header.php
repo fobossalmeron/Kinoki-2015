@@ -10,6 +10,5 @@
     <link rel="stylesheet" href="../../stylesheets/app.css" />
     <script src="../../bower_components/modernizr/modernizr.js"></script>
     <script src="http://code.jquery.com/jquery-latest.js"></script>
-    <?php if ($redirect == true) echo '<meta http-equiv="refresh" content="5; URL=http://festivalkinoki.com"/>'?>
   </head>
 <body>

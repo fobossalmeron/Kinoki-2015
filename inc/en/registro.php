@@ -19,7 +19,7 @@
 		          
 		          <li>
 			          <h4>- Descarga y llena la Ficha de Registro</h4>
-			          <p>Descarga el <a href="/../../documentos/Ficha_de_Registro_Kinoki_2015.pdf">PDF con la Ficha de Registro</a> y llénala con los datos de tu cortometraje. Te recordamos la importancia de utilizar letra de molde para llenar la ficha, si los datos no son legibles tu cortometraje quedará fuera del concurso.</p>
+			          <p>Descarga el <a href="/../../documentos/Registration_Form_Kinoki_2015.pdf">PDF con la Ficha de Registro</a> y llénala con los datos de tu cortometraje. Te recordamos la importancia de utilizar letra de molde para llenar la ficha, si los datos no son legibles tu cortometraje quedará fuera del concurso.</p>
 		          </li>
 		          
 		          <li>
