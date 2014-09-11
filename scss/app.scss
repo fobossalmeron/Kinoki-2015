@@ -450,17 +450,38 @@ line-height: 1.3em;
 	font-style: italic;
 }
 
+.fecha{
+	top: 65%;
+	background:$blanco;
+	color: $rojosombra;
+	padding: 0 20px;
+	max-width: 350px;
+	@include single-box-shadow(4px, 4px, 0, 0, rgba(0,0,0,0.15));
+}
+
+.divisor{
+	top: 65%;
+}
+
 .animatedtext{
 	left:53%;
 	transition:ease 1.5s 2.5s;
 }
 
 .second{
-	transition:ease 1.5s 2.7s;
+	transition:ease 1.5s 2.6s;
 }
 
 .third{
-	transition:ease 1.5s 2.9s;
+	transition:ease 1.5s 2.8s;
+}
+
+.fourth{
+	transition:ease 1.5s 3.0s;
+}
+
+.fourth{
+	transition:ease 1.5s 3.2s;
 }
 
 @media only screen 

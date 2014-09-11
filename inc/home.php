@@ -12,6 +12,8 @@
 		      <p class="festivaltexto fuerte textoanima">KINOKI<p>
 		      <p class="festivaltexto light textoanima second">Festival Internacional <br>de Cine Universitario</p>
 		      <p class="festivaltexto italica textoanima third">Decimoprimera Edición</p>
+		     <!-- <hr class="festivaltexto divisor textoanima fourth"> -->
+		      <p class="festivaltexto fecha textoanima fifth"><strong>6</strong>-<strong>10</strong> de Abril</p>
 		      <h1>Kinoki 2015 | Festival Internacional de Cine Universitario</h1>
 	
 	 
