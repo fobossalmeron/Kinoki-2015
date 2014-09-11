@@ -3,7 +3,7 @@
 	<div class="row">
 	  <div class="small-7 small-centered large-6 large-centered columns">
 	   	<div class="callout panel boxshadow titulo-amarillo slideme">
-	      <h2>ACERCA DEL FESTIVAL</h2>  
+	      <h2>ABØUT</h2>  
 		</div>
 	  </div>
 	</div>
@@ -179,6 +179,6 @@ CUANDO ESTEN EL CATALOGO Y PROGRAMA
 
       
     	<?php $datascroll = '2'?>
-	  <?php include('inc/flecha.php')?>
+	   <?php include('../inc/flecha.php')?>
     
 </div>

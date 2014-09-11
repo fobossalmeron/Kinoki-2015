@@ -48,6 +48,6 @@
    
 <?php $datascroll = '6';
 ?>
-<?php include('inc/flecha.php')?>
+ <?php include('../inc/flecha.php')?>
 
 </div> 

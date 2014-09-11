@@ -3,7 +3,7 @@
 
 	<div class="row">
       <div class="small-12 small-centered columns">
-        <h3 class="pshadow">Conéctate con el festival!</h3>
+        <h3 class="pshadow">Contact Us!</h3>
       </div>
 	</div>
 
@@ -64,22 +64,22 @@
     <div class="row">
       <div class="small-11 small-centered medium-12 large-12 columns">
       <ul class="small-block-grid-4 medium-block-grid-7">
-      <li><a data-scroll-nav="0">Casa</a></li>
-      <li><a data-scroll-nav="1">Información</a></li>
+      <li><a data-scroll-nav="0">Home</a></li>
+      <li><a data-scroll-nav="1">About</a></li>
       <li><a data-scroll-nav="2">Blog</a></li>
-      <li><a data-scroll-nav="3">Registro</a></li>
-      <li><a data-scroll-nav="4">Contacto</a></li>
+      <li><a data-scroll-nav="3">Registration</a></li>
+      <li><a data-scroll-nav="4">Contact</a></li>
       <li><a data-scroll-nav="5">F.A.Q.</a></li>
-      <li><a data-scroll-nav="6">Patrocinio</a></li>
+      <li><a data-scroll-nav="6">Sponsors</a></li>
       </ul>
       
-      <p>DISEÑO POR <a href="http://rodrigosalmeron.mx">RODRIGO SALMERÓN</a> <br>COPYRIGHT © 2015 KINOKI</p>
+      <p>DESIGNED BY <a href="http://rodrigosalmeron.mx">RODRIGO SALMERÓN</a> <br>COPYRIGHT © 2015 KINOKI</p>
       </div>
     </div>
     
     <div class="row">
       <div class="small-5 small-centered medium-6 large-1 columns">
-     <img  data-scroll-goto="0" class="logofooter" src="images/logofooter.svg" alt="Kinoki 2015"/>
+     <img  data-scroll-goto="0" class="logofooter" src="../images/logofooter.svg" alt="Kinoki 2015"/>
       </div>
     </div>  
 
@@ -91,9 +91,9 @@
 
 <!--scripts para animaciones-->
 <!--termina script-->
-    <script src="bower_components/jquery/dist/jquery.min.js"></script>
-    <script src="bower_components/foundation/js/foundation.min.js"></script>
-    <script type="text/javascript" src="js/scrollIt.min.js"></script>
-    <script type="text/javascript" src="js/app.js"></script>
+    <script src="../../bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="../../bower_components/foundation/js/foundation.min.js"></script>
+    <script type="text/javascript" src="../../js/scrollIt.min.js"></script>
+    <script type="text/javascript" src="../../js/app.js"></script>
   </body>
 </html>
