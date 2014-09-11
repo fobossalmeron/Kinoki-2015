@@ -460,7 +460,7 @@ line-height: 1.3em;
 }
 
 .divisor{
-	top: 65%;
+	top: 65%; 
 }
 
 .animatedtext{
@@ -482,6 +482,20 @@ line-height: 1.3em;
 
 .fourth{
 	transition:ease 1.5s 3.2s;
+}
+
+.categorias{
+	color:$blanco;
+	font-weight: 400;
+}
+
+.oblique{
+	font-style: oblique;
+}
+
+.bolder{
+	font-style: normal;
+	font-weight: 400;
 }
 
 @media only screen 

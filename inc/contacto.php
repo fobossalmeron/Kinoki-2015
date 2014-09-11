@@ -92,7 +92,7 @@
 			    <p>Diego Rodríguez <br>
 					diego.rodriguez@festivalkinoki.com</p>
 
-			  <h5 class="textshadow-blanco">Difusión Interna:</h5>
+			  <h5 class="textshadow-blanco">Difusión:</h5>
 			    <p>Alejandra Quevedo<br>
 					alejandra.quevedo@festivalkinoki.com</p>
 

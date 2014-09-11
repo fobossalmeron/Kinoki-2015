@@ -13,23 +13,24 @@
       		<hr>
 	          <ul class="no-bullets">
 		          <li>
-			          <h4>Consulta los Lineamientos</h4>
-			          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nec pellentesque lacus. Mauris nec auctor felis. Nulla eu varius tellus. Cras sodales sapien luctus laoreet tincidunt. Vivamus porttitor feugiat felis ac porta. Aliquam tempor scelerisque rhoncus. In posuere tincidunt lectus, ac mattis leo fringilla nec. Nunc gravida tristique sem quis tempor. Aenean id elementum mi. Proin blandit tempor tellus, ut.</p>
+			          <h4>- Consulta los Lineamientos</h4>
+			          <p>Revisa el <a href="documentos/Lineamientos_Kinoki_2015.pdf">PDF con los lineamientos</a> en el panel correspondiente y asegúrate de que tu corto cumpla con todas las especificaciones y el reglamento del festival.</p>
 		          </li>
 		          
 		          <li>
-			          <h4>Descarga y llena la Ficha de Registro</h4>
-			          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nec pellentesque lacus. Mauris nec auctor felis. Nulla eu varius tellus. Cras sodales sapien luctus laoreet tincidunt. Vivamus porttitor feugiat felis ac porta. </p>
+			          <h4>- Descarga y llena la Ficha de Registro</h4>
+			          <p>Descarga el <a href="documentos/Ficha_de_Registro_Kinoki_2015.pdf">PDF con la Ficha de Registro</a> y llénala con los datos de tu cortometraje. Te recordamos la importancia de utilizar letra de molde para llenar la ficha, si los datos no son legibles tu cortometraje quedará fuera del concurso.</p>
 		          </li>
 		          
 		          <li>
-			          <h4>Graba tu corto en BlueRay</h4>
-			          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nec pellentesque lacus. Mauris nec auctor felis. Nulla eu varius tellus. Cras sodales sapien luctus laoreet tincidunt.</p>
-		          </li>
-		          
-		          <li>
-			          <h4>Envíanos todo!</h4>
-			          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nec pellentesque lacus. Mauris nec auctor felis. Nulla eu varius tellus. Cras sodales sapien luctus laoreet tincidunt. Vivamus porttitor feugiat felis ac porta. Aliquam tempor scelerisque rhoncus. In posuere tincidunt lectus, ac mattis leo fringilla nec. Nunc gravida tristique sem quis tempor. Aenean id elementum mi. Proin blandit tempor tellus, ut.</p>
+			          <h4>- Envíanos todo!</h4>
+			          <p>Firma y escanea la ficha, adjunta una copia de tu credencial escolar e identificación oficial (Pasaporte, IFE, Carnet de Identidad), la copia de tu cortometraje en los formatos especificados en los lineamientos y envíanos el paquete a:</p>
+			          <p>
+			          Universidad Iberoamericana<br>
+			          Prolongación Paseo de la Reforma #880 <br>
+			          Lomas de Santa Fe, México D.F. CP 01219 <br>
+			          Edificio I, Primer Piso, Departamento de Comunicación. <br>
+			          </p>
 		          </li>
 	          </ul>
       </div>
@@ -53,7 +54,7 @@
       <div class="small-11 small-centered medium-5 medium-uncentered medium-push-1 large-4 large-uncentered large-push-1 columns">
 		  <div class="panel boxshadow">
           <h5><strong>Descarga la Ficha de Registro</strong></h5>
-          <p>Puedes descargar el PDF y llenarlo a mano, o el .DOC y sólo firmarlo.</p>
+          <p>Descarga este documento con la ficha de registro.</p>
           
           <a href="#" class="small button">
 		          <div class="pdf">
@@ -64,14 +65,6 @@
 			  <p class="buttonpdf">Descargar .PDF</p>
           </a>
               
-          <a href="#" class="small button">
-		          <div class="pdf">
-				      <svg version="1.1" viewBox="0 0 92 100" preserveAspectRatio="xMinYMin meet" xml:space="preserve">
-				      <path class="pdfnaranja" d="M52.4 12.7v19.3h19.3v55.3H14.3v-74.6H52.4zM58 3.7H5.3v92.6H80.7V26.3L58 3.7zM20.6 52.8h5.2c4.2 0 7.6 3.3 7.6 7.4 0 4.1-3.4 7.4-7.6 7.4h-5.2V52.8zM29.7 60.3c0-2.1-1.8-3.9-4-3.9h-1.6v7.7h1.6C27.9 64.1 29.7 62.4 29.7 60.3zM50.2 60.2c0 4.2-3.5 7.7-7.7 7.7 -4.3 0-7.7-3.5-7.7-7.7 0-4.3 3.5-7.7 7.7-7.7C46.7 52.4 50.2 55.9 50.2 60.2zM46.5 60.2c0-2.3-1.8-4.2-4.1-4.2 -2.3 0-4.1 1.9-4.1 4.2 0 2.3 1.8 4.1 4.1 4.1S46.5 62.4 46.5 60.2zM62.9 62.2l2.9 2.1c-1.9 2.5-4 3.6-6.5 3.6 -4.3 0-7.7-3.5-7.7-7.7s3.5-7.7 7.7-7.7c2.5 0 4.7 1.1 6.5 3.6l-2.9 2.1c-1.2-1.6-2.4-2.2-3.6-2.2 -2.3 0-4.1 1.9-4.1 4.2 0 2.3 1.8 4.2 4.1 4.2C60.6 64.3 61.8 63.8 62.9 62.2z"/>
-				      </svg>  
-		          </div>
-          <p class="buttonpdf">Descargar .DOC</p>
-          </a>
 		 </div>
     
 	</div>
@@ -80,7 +73,7 @@
       <div class="row">
       	<div class="small-11 small-centered medium-8 large-7 large-uncentered columns">
             <div class="panel boxshadow">
-              <p>Si tienes dudas consulta nuestro <strong><a class="faqlink" data-scroll-nav="5">F.A.Q.</a></strong> Y si aún tienes dudas contáctanos a: contacto@festivalkinoki.com</p>
+              <p>Si tienes dudas consulta nuestro <strong><a class="faqlink" data-scroll-nav="5">F.A.Q.</a></strong> Y si aún tienes dudas contáctanos a: <strong>contacto@festivalkinoki.com</strong></p>
             </div>
           </div>
       </div>

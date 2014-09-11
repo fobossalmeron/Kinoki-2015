@@ -41,7 +41,7 @@
 
 <!-- Patrocinadores -->
 
-<?php include('inc/patrocinadores.php'); ?>
+<?php //include('inc/patrocinadores.php'); ?>
 	  
 
 

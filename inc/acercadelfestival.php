@@ -12,8 +12,40 @@
 	  <div class="small-11 small-centered large-12 columns">
 	      <h3 class="pshadow hideme">Presentación</h3>
 	      	<hr>
-	          <p>El Festival Internacional de Cine Universitario KINOKI surge de la necesidad de dar voz y difusión a los cineastas universitario de todo el mundo mostrando sus cortometrajes. Creado en el 2004 por alumnos de la Universidad Iberoamericana ha ido creciendo año tras año, llegando a ser unos de los festivales más importantes en México. El nombre Kinoki está basado en un movimiento que surge en Eurasia hacia 1922 con un hombre llamado Dziga Vertov. De él surgen conceptos como la Kino Pravda (cine-verdad) y Kino Glaz (cine-ojo) buscando expresar una verdad más profunda de la que percibe el ojo humano por medio del séptimo arte.</p>
-	          <p>El Kinoki promueve la cultura cinematográfica y el desarrollo de estudiantes universitarios en materia del séptimo arte; muestra diversos tipos cine alrededor del mundo y las diferentes ideas y propuestas de los jóvenes. El Kinoki es sencillamente la promoción del desarrollo estudiantil mundial en materia de cine, uno de los festivales con mayor trayectoria y experiencia en America Latina. El Kinoki no trata solamente de la exhibición de cine; es una retroalimentación cultural en la que aparecen master class, conferencias, estrenos de películas y es una muestra de apoyo a los futuros cineastas.</p>
+	          <p>El Festival Internacional de Cine Universitario KINOKI fue creado en el 2004 por alumnos de la Universidad Iberoamericana debido a la necesidad de dar voz y difusión a los cineastas universitarios. <br>
+El nombre KINOKI está basado principalmente en la filosofía del cine-verdad (kino-pravda) perteneciente al cineasta soviético Dziga Vértov, pensamiento emancipador que buscaba expresar una verdad más profunda que la que percibe el ojo humano a través del séptimo arte.
+.<br>
+Por medio de la exhibición de cortometrajes de ficción, investigación documental, animación y de corte experimental, el Festival KINOKI ha promovido desde hace once años la cultura cinematográfica y el desarrollo de estudiantes universitarios con un interés en el cine.</p>
+	          <p class="oblique">
+	          <strong class="pshadow bolder">Edición 2015</strong><br>
+	           Año con año el festival KINOKI celebra los mejores trabajos estudiantiles del séptimo arte, proyectando lo más destacable a nivel nacional e internacional. Para nosotros es muy importante que el festival, además de servir como puente de acceso y exhibición de trabajos estudiantiles, se convierta en un espacio en donde el aprendizaje del quehacer cinematográfico sea una constante presente en cada uno de los eventos que se realicen. De esta manera se buscará generar relaciones entre creadores que sirvan para establecer lazos entre creador-espectador y viceversa.<br>
+Nos interesa propiciar espacios de discusión y aprendizaje en los que, tanto estudiantes como creadores, puedan analizar la realidad actual en la que se encuentra el mundo. El objetivo es que se logre generar contenidos cinematográficos conscientes, críticos, propositivos y de calidad. Estos espacios de diálogo se darán a través de conferencias y master classes impartidas por profesionales en el ámbito cinematográfico nacional e internacional. <br>
+En esta décimo-primera edición,  el festival considera a Dinamarca como país invitado debido a sus grandes aportes al desarrollo del arte cinematográfico universal y en la diversidad de su propia industria.</p>
+
+<p>
+<strong class="pshadow">César Ortíz</strong><br>
+Director General
+</p>
+	 </div>
+	</div>  
+	
+	<div class="row">
+	  <div class="small-11 small-centered large-12 columns">
+	      <h3 class="pshadow hideme">Convocatoria	<p class='bolder'>País invitado: Dinamarca</p></h3>
+	      	<hr>
+	          <p>El Festival Internacional de Cine Universitario KINOKI, junto con la Universidad Iberoamericana Ciudad de México, convoca a todos los estudiantes a participar en la competencia y muestra oficial de cortometrajes universitarios en el marco de su décimo primera edición, celebrada del 6 al 10 de abril del año 2015.</p>
+	          <p class="pshadow bolder">Convocatoria abierta del 12 de septiembre de 2014 al 15 de enero de 2015.</p>
+	          <p>Las categorías de selección son: 
+		          <ul class="categorias pshadow">
+					  <li>Ficción</li>
+					  <li>Documental</li>
+					  <li>Animación</li>
+					  <li>Experimental</li>
+		          </ul>
+	          </p>
+	          <p>Consulta las bases en la sección de <span data-scroll-index='3'>Registro</span><br>
+	          Para dudas o aclaraciones, se puede consultar la sección de <span data-scroll-index='5'>FAQ</span> o alternativamente, se puede contactar al festival a través del correo electrónico <strong>contacto@festivalkinoki.com</strong>.
+	          </p>
 	 </div>
 	</div>  
 
@@ -22,7 +54,7 @@
           
 		 <dl class="accordion boxshadow" data-accordion>
 		   <dd class="accordion-navigation">
-		     <a href="#panel1">Ediciones</a>
+		     <a href="#panel1">Ediciones Pasadas</a>
 		      <div id="panel1" class="content active">
 		       <dl class="tabs" data-tab>
 		        <dd><a href="#panel2-2004">2004</a></dd>
@@ -35,21 +67,11 @@
 		        <dd><a href="#panel2-2011">2011</a></dd>
 		        <dd><a href="#panel2-2012">2012</a></dd>
 		        <dd><a href="#panel2-2013">2013</a></dd>
-		        <dd><a href="#panel2-2014">2014</a></dd>
-		        <dd class="active"><a href="#panel2-2015">2015</a></dd>
+		        <dd class="active"><a href="#panel2-2014">2014</a></dd>
 		      </dl>
 		      <div class="tabs-content">
-		      
-		        <div class="content active" id="panel2-2015">
-		          <p>El Kinoki 2015 tiene como país invitado a Dinamarca. La intensión es la difusión de la narrativa cinematográfica del sur y las motivaciones e inspiraciones que poseen los cineastas de la región hermana.
-		El Festival también abre las celebraciones del decimo aniversario del mismo y cuenta con varias presentaciones a lo largo del año que no necesariamente coinciden con las fechas del mismo festival. Finalmente este año es meramente simbólico, porque ya comenzó y terminará después de la última proyección del festival.
-		Ve a través de Kinoki 2015. 
-		          </p>
-			          <p>Visita el Archivo:</p>
-			          <a href="retroscopio.php" class="small button">Retroscopio</a>
-				</div>
         
-		        <div class="content" id="panel2-2014">
+		        <div class="content active" id="panel2-2014">
 		          <p>
 			          En ésta ocasión, el Festival Internacional de Cine Universitario Kinoki promueve la retroalimentación cinematográfica de varias maneras: profesionales del cine de México presentados en master clases, seminarios, talleres y pláticas en los que describen las experiencias en sus mismas profesiones. Además, El Kinoki 2014 tiene como país invitado a Israel. La intensión es la difusión de la narrativa cinematográfica del sur y las motivaciones e inspiraciones que poseen los cineastas de la región hermana.
 		El Festival también abre las celebraciones del decimo aniversario del mismo y cuenta con varias presentaciones a lo largo del año que no necesariamente coinciden con las fechas del mismo festival. Finalmente este año es meramente simbólico, porque ya comenzó y terminará después de la última proyección del festival.
@@ -94,6 +116,8 @@
   </div>
 </div>
 
+<?php /*--  CUANDO ESTEN LAS ACTIVIDADES PARALELAS
+
 <div class="row">
   <div class="small-11 small-centered large-12 columns">
       <h3 class="pshadow hideme">Actividades Paralelas</h3>
@@ -103,7 +127,7 @@
  </div>
 </div> 
 
-<?php /*--
+
 
 CUANDO ESTEN EL CATALOGO Y PROGRAMA
  
