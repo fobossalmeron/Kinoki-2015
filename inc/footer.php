@@ -69,7 +69,7 @@
       <li><a data-scroll-nav="2">Blog</a></li>
       <li><a data-scroll-nav="3">Registro</a></li>
       <li><a data-scroll-nav="4">Contacto</a></li>
-      <li><a data-scroll-nav="5">F.A.Q.</a></li>
+      <li><a data-scroll-nav="5">FAQ</a></li>
       <li><a data-scroll-nav="6">Patrocinio</a></li>
       </ul>
       

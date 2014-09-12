@@ -95,7 +95,7 @@ Una vez más se contó con el apoyo del CutOut Fest con 10 cortometrajes premiad
 <li>Martha Sosa, Producción.</li>
 <li>Roberto Fiesto, Producción.</li>
 </ul>
-<span>Muestra del CutOut Fest: (Festival encargado de la difusión de la animación como vehículo de expresión artística)</span><br>
+<span>Muestra del CutOut Fest: (Festival encargado de la difusión de la animación como vehículo de expresión artística.)</span><br>
 <br>
 <ul>
 <li>Mejor corto animado: Mouth Wide Open, Ears Shut Tight - Tom Mndar y Emily Noy.</li>
@@ -117,7 +117,7 @@ Una vez más se contó con el apoyo del CutOut Fest con 10 cortometrajes premiad
 		          <ul>
 <li>Mejor corto extranjero: El vampirito - Pablo Navarro-Rubio. </li>
 <li>Mejor ficción: El vampirito - Pablo Navarro-Rubio.</li>
-<li>Premio del púlico: De tierra - Ilana Coleman.</li>
+<li>Premio del público: De tierra - Ilana Coleman.</li>
 <li>Mejor documental: Nunca, nunca, no dejé ir - Moisés Aisemberg.</li>
 <li>Mejor animación: W&C - Daniel Rosas Paulsen.</li>
 <li>Mejor fotografía: Yuban - Yassib Vázquez.</li>
@@ -131,7 +131,7 @@ Una vez más se contó con el apoyo del CutOut Fest con 10 cortometrajes premiad
 
 				<div class="content" id="panel2-2010">
 		          <p>
-			          El país invitado este año fue México con motivo del 50 aniversario de la carrera de Comunicación de la Universidad Iberoamericana y con el compromiso de difundir el cine nacional. Se recibieron más de 120 cortometrajes nacionales e internacionales incluyendo a países como Eslovenia, Alemania, Italia, Chile, Argentina, Estado Unidos, Chile, Bélgica y España, entre otros. Los cortos seleccionados se proyectaron bajo las categorías de Ficción, Animación, Experimental y Documental. <br>
+			          El país invitado este año fue México con motivo del 50 aniversario de la carrera de Comunicación de la Universidad Iberoamericana y con el compromiso de difundir el cine nacional. Se recibieron más de 120 cortometrajes nacionales e internacionales incluyendo a países como Eslovenia, Alemania, Italia, Chile, Argentina, Estados Unidos, Chile, Bélgica y España, entre otros. Los cortos seleccionados se proyectaron bajo las categorías de Ficción, Animación, Experimental y Documental. <br>
 			          <br>
 En la Inauguración, se llevó a cabo una presentación montada por la compañía de teatro Humanicorp (híbrido de atletas, bailarines y creadores) en la cual se hizo una reinterpretación de escenas de películas mundialmente conocidas a través de la danza y las artes circenses. Como sedes alternas, se contó con Flim Clib Café (Naucalpan), Conejo Blanco (Hipódromo La Condesa), SOGEM, Jaime Castilla, Escuela de Escritores (Coyoacán), Faro Tláhuac (Miguel Hidalgo), Centro Cultural BORDER (Roma Sur) y el Foro Cultural MUJAM (Col. Doctores).
 		          </p>
@@ -146,8 +146,8 @@ A nivel nacional, se contó con el apoyo del Festival Internacional de Cine de M
 		      
 		      <div class="content" id="panel2-2008">
 		          <p>
-			          Este año, el Festival KINOKI unió fuerzas con el Festival Africala, en la quinta y segunda edición de cada uno, respectivamente. El festival Africala es un movimiento, primero en su tipo, que surgió en Latinoamérica por la necesidad de un foro para la difusión del cine Africano, continente que es constantemente obviado. Este cine busca recuperar los valores tradicionales y la integración de los propios africanos, además de reflexionar sobre la dignidad del continente, de acabar con los prejuicios sobre Africa y de consolidar la paz y la reconciliación. La programación de Africala incluyó: After Sour Before Sween - William Owusu (Kenya), In my Genes - Lupita Nyong’o (Kenya), Short Message Service - Aleks Kamau (Kenya), Kibera Kids - Nathan Collet (Kenya) y And There Is Dust - Lara Foot Newton y Gerhard Marx (Sudáfrica).<br>
-Así mismo, este año se contó con la participación la Muestra Oficial VIART, festival de cortometrajes iberoamericanos realizado cada año en Caracas, Venezuela. 
+			          Este año, el Festival KINOKI unió fuerzas con el Festival Africala, en la quinta y segunda edición de cada uno, respectivamente. El festival Africala es un movimiento, primero en su tipo, que surgió en Latinoamérica por la necesidad de un foro para la difusión del cine Africano, continente que es constantemente obviado. Este cine busca recuperar los valores tradicionales y la integración de los propios africanos, además de reflexionar sobre la dignidad del continente, de acabar con los prejuicios sobre África y de consolidar la paz y la reconciliación. La programación de Africala incluyó: After Sour Before Sween - William Owusu (Kenya), In my Genes - Lupita Nyong’o (Kenya), Short Message Service - Aleks Kamau (Kenya), Kibera Kids - Nathan Collet (Kenya) y And There Is Dust - Lara Foot Newton y Gerhard Marx (Sudáfrica).<br>
+Así mismo, este año se contó con la participación de la Muestra Oficial VIART, festival de cortometrajes iberoamericanos realizado cada año en Caracas, Venezuela. 
 STRAIGHT 8: Se realizó una competencia de cortometrajes filmados en formato de cine Súper 8mm, bajo los parámetros de que sólo se podría utilizar un cartucho de película Súper 8mm, edición, cortes de cámara y música o audio original. El primer lugar compitió en la categoría Straight 8, en el Kodak Pavillion, en el festival de Cannes 2008. 
 El Auditorio Nacional apoyó con sedes alternas como la Universidad Vasco de Quiroga y el Centro de Capacitación Cinematográfica  (CCC) durante su programa “Cortos para no pasar de largo”.<br>
 <br>
@@ -169,8 +169,8 @@ Los ganadores en las diferentes categorías de la cuarta edición del festival f
 		      
 		      <div class="content" id="panel2-2007">
 		         <p>
-Con más de 200 cortometrajes recibidos a nivel nacional e internacional, en el año 2007 sólo compitieron 54 en la selección oficial y fueron evaluados por un Jurado en el cual destacaron personalidades como Antonio Serrano (Director), Luciana Cabarga (fundadora de las Film Commission en México) y Ana Cruz (Ex-Directora de Difusión y Programación de la Cineteca Nacional). <br>
-Este año, El Festival Internacional de Cine de Acapulco y el Festival de Cine de Ecatepec apoyaron con la proyección de los cortometrajes ganadores y la Revista Indie Rocks!, así como el Programa Espacio E! por Telehit, Televisa hicieron menciones importantes del festival, apoyando a su difusión.
+Con más de 200 cortometrajes recibidos a nivel nacional e internacional, en el año 2007 sólo compitieron 54 en la selección oficial y fueron evaluados por un Jurado en el cual destacaron personalidades como Antonio Serrano (Director), Luciana Cabarga (Fundadora de la Comisión de Filmaciones en México) y Ana Cruz (Ex-Directora de Difusión y Programación de la Cineteca Nacional). <br>
+Este año, el Festival Internacional de Cine de Acapulco y el Festival de Cine de Ecatepec apoyaron con la proyección de los cortometrajes ganadores y la Revista Indie Rocks!, así como el Programa Espacio E! por Telehit, Televisa hicieron menciones importantes del festival, apoyando a su difusión.
 		          </p>
 		           <p class="oblique">
 			           “Este año el compromiso es mayor. El festival KINOKI 2007, consolidado como uno de los más importantes a nivel nacional para la difusión de trabajos universitarios, abre la convocatoria para inscripción de cortometrajes hasta el 20 de enero. Es una oportunidad para los estudiantes y para la difusión de talento, esfuerzo y trabajo de los creadores mexicanos”.</p>

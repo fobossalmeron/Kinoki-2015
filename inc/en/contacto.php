@@ -92,7 +92,7 @@
 			    <p>Diego Rodríguez <br>
 					diego.rodriguez@festivalkinoki.com</p>
 
-			  <h5 class="textshadow-blanco">Intitutional and Media Relations:</h5>
+			  <h5 class="textshadow-blanco">Institutional and Media Relations:</h5>
 			    <p>Alejandra Quevedo<br>
 					alejandra.quevedo@festivalkinoki.com</p>
 
@@ -114,7 +114,7 @@
 				<p>Jorge de la Tijera<br>
 					jorge.tijera@festivalkinoki.com</p>
 			
-			<h5 class="textshadow-blanco">Outsource Logistics:</h5>
+			<h5 class="textshadow-blanco">Offsite Venues:</h5>
 				<p>Paulina López<br>
 					paulina.lopez@festivalkinoki.com</p>
 			

@@ -19,7 +19,7 @@
 		          
 		          <li>
 			          <h4 class="pshadow">- Download and fill the Registration Form</h4>
-			          <p>Download the <a href="/../../documentos/Registration_Form_Kinoki_2015.pdf">Registration Form PDF</a>and fill it with your short film information. Remember it's very important to use block letter on your form, if the information is unreadable, your short film will be disqualified!</p>
+			          <p>Download the <a href="/../../documentos/Registration_Form_Kinoki_2015.pdf">Registration Form PDF</a> and fill it with your short film information. Remember it's very important to use block letter on your form, if the information is unreadable, your short film will be disqualified!</p>
 		          </li>
 		          
 		          <li>
@@ -73,7 +73,7 @@
       <div class="row">
       	<div class="small-11 small-centered medium-8 large-7 large-uncentered columns">
             <div class="panel boxshadow">
-              <p>Any further questions or concerns visit our <strong><a class="faqlink" data-scroll-nav="5">F.A.Q.</a></strong> section or contact us at <strong>contacto@festivalkinoki.com</strong></p>
+              <p>For further questions or concerns visit our <strong><a class="faqlink" data-scroll-nav="5">FAQ</a></strong> section or contact us at <strong>contacto@festivalkinoki.com</strong></p>
             </div>
           </div>
       </div>

@@ -3,7 +3,7 @@
     <div class="row">
 	      <div class="small-5 small-centered medium-3 medium-centered columns">
 		      <div class="callout panel boxshadow titulo-amarillo slideme">
-		       	<h2>F.A.Q.</h2>
+		       	<h2>FAQ</h2>
 		      </div>
 	      </div>
     </div>

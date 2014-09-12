@@ -12,7 +12,7 @@
 	      <div class="small-11 small-centered large-12 columns">
 	      		<h3 class="pshadow">Visit our <a href="http://blog.festivalkinoki.com">Official Blog</a>.</h3>
 	      		<hr>
-	            <p>Stay updated with content from our festival.</p>
+	            <p>Stay updated on content from our festival.</p>
 	      </div>
       </div>
       

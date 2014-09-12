@@ -17,7 +17,7 @@
         <li>CØNTACTO</li>
       </a>
       <a data-scroll-nav='5' href="#FAQ" class="menu-link">
-        <li>F.A.Q.</li>
+        <li>FAQ</li>
       </a>
     </ul>
   </nav>

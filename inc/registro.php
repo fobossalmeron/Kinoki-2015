@@ -73,7 +73,7 @@
       <div class="row">
       	<div class="small-11 small-centered medium-8 large-7 large-uncentered columns">
             <div class="panel boxshadow">
-              <p>Si tienes dudas, consulta nuestro <strong><a class="faqlink" data-scroll-nav="5">F.A.Q.</a></strong> Si aún no son resueltas, contáctanos a: <strong>contacto@festivalkinoki.com</strong></p>
+              <p>Si tienes dudas, consulta nuestro <strong><a class="faqlink" data-scroll-nav="5">FAQ</a></strong>. Si aún no son resueltas, contáctanos a: <strong>contacto@festivalkinoki.com</strong></p>
             </div>
           </div>
       </div>

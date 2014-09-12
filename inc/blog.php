@@ -12,7 +12,7 @@
 	      <div class="small-11 small-centered large-12 columns">
 	      		<h3 class="pshadow">Visita nuestro <a href="http://blog.festivalkinoki.com">Blog Oficial</a>.</h3>
 	      		<hr>
-	            <p>Entérate de las últimas noticias, reseñas y eventos del Kinoki 2015.</p>
+	            <p>Entérate de las últimas noticias, reseñas y eventos del KINOKI 2015.</p>
 	      </div>
       </div>
       

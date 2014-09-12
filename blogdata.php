@@ -4,7 +4,7 @@ $posts = array(
  /*Noticia 1 Español*/
  'post1' => array(
  			 'title' => '¡Convocatoria Abierta!',
-			 'caption' => 'Te invitamos a participar en el la Decimoprimera Edición del Festival Internacional de Cine KINOKI. Convocatoria abierta del 12 de Septiembre de 2014 al 15 de Enero de 2015.',
+			 'caption' => 'Te invitamos a participar en la Decimoprimera Edición del Festival Internacional de Cine KINOKI. Convocatoria abierta del 12 de Septiembre de 2014 al 15 de Enero de 2015.',
 			 'imagelink' => '../images/noticias/convocatoria.jpg',
 			 'postlink' => 'http://blog.festivalkinoki.com/2014/09/12/kinoki-convocatoria-abierta/'
 		   ),
