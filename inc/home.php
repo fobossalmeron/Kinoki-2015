@@ -24,6 +24,6 @@
 	    </div>  
 	    
 <?php $datascroll = '1'?>
- <?php include('../inc/flecha.php')?>
+<?php include('inc/flecha.php')?>
 	  
 </div> 

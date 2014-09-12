@@ -23,13 +23,12 @@ Por medio de la exhibición de cortometrajes de ficción, investigación documen
 	  
 			<div class="callout panel boxshadow">
 	          <p class="oblique">
-	          <strong class="pshadow bolder">Edición 2015</strong><br>
 	           Año con año el festival KINOKI celebra los mejores trabajos estudiantiles del séptimo arte, proyectando lo más destacable a nivel nacional e internacional. Para nosotros es muy importante que el festival, además de servir como puente de acceso y exhibición de trabajos estudiantiles, se convierta en un espacio en donde el aprendizaje del quehacer cinematográfico sea una constante presente en cada uno de los eventos que se realicen. De esta manera se buscará generar relaciones entre creadores que sirvan para establecer lazos entre creador-espectador y viceversa.<br>
 Nos interesa propiciar espacios de discusión y aprendizaje en los que, tanto estudiantes como creadores, puedan analizar la realidad actual en la que se encuentra el mundo. El objetivo es que se logre generar contenidos cinematográficos conscientes, críticos, propositivos y de calidad. Estos espacios de diálogo se darán a través de conferencias y master classes impartidas por profesionales en el ámbito cinematográfico nacional e internacional. <br>
 En esta décimo-primera edición,  el festival considera a Dinamarca como país invitado debido a sus grandes aportes al desarrollo del arte cinematográfico universal y en la diversidad de su propia industria.</p>
 <p>
 <strong class="pshadow">César Ortiz</strong><br>
-Director General
+Director General, <span class="oblique">Edición 2015</span>
 </p>
 	  		</div>
 	 </div>
