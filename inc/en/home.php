@@ -1,6 +1,6 @@
 <div class="divrojo" id="bienvenida" data-scroll-index='0'>
    	 <div class="idioma">
-		  <p><a href="../../">Es</a> / <strong>En</strong></p>
+		  <p><a href="../../">Es</a> / En</p>
 	 </div>
 
 	 <div class="row">
@@ -16,7 +16,7 @@
 		      <p class="festivaltexto fuerte textoanima">KINOKI<p>
 		      <p class="festivaltexto light textoanima second">International Student <br>Film Festival</p>
 		      <p class="festivaltexto italica textoanima third">Eleventh Edition</p>
-		      <p class="festivaltexto fecha textoanima fifth"><strong>6</strong>-<strong>10</strong> APRIL</p>
+		      <p class="festivaltexto fecha textoanima fifth">APRIL <strong>6</strong>-<strong>10</strong></p>
 		      <h1>Kinoki 2015 | International Student Film Festival</h1>
 	
 	 

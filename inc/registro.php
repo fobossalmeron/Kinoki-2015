@@ -13,17 +13,17 @@
       		<hr>
 	          <ul class="no-bullets">
 		          <li>
-			          <h4>- Consulta los Lineamientos</h4>
-			          <p>Revisa el <a href="documentos/Lineamientos_Kinoki_2015.pdf">PDF con los Lineamientos</a> en el panel correspondiente y asegúrate de que tu corto cumpla con todas las especificaciones y el reglamento del festival.</p>
+			          <h4 class="pshadow">- Consulta los Lineamientos</h4>
+			          <p>Revisa el <a href="documentos/Lineamientos_Kinoki_2015.pdf">PDF con los Lineamientos</a> en el panel correspondiente y asegúrate de que tu corto cumpla con todas las especificaciones establecidas y con el Reglamento del Festival.</p>
 		          </li>
 		          
 		          <li>
-			          <h4>- Descarga y llena la Ficha de Registro</h4>
-			          <p>Descarga el <a href="documentos/Ficha_de_Registro_Kinoki_2015.pdf">PDF con la Ficha de Registro</a> y llénala con los datos de tu cortometraje. Te recordamos la importancia de utilizar letra de molde para llenar la ficha, si los datos no son legibles tu cortometraje quedará fuera del concurso.</p>
+			          <h4 class="pshadow">- Descarga y llena la Ficha de Registro</h4>
+			          <p>Descarga el <a href="documentos/Ficha_de_Registro_Kinoki_2015.pdf">PDF con la Ficha de Registro</a> y llénala con los datos de tu cortometraje. Recuerda que es importante utilizar letra de molde para llenar la ficha; si los datos no son legibles, tu cortometraje quedará fuera del concurso.</p>
 		          </li>
 		          
 		          <li>
-			          <h4>- Envíanos todo!</h4>
+			          <h4 class="pshadow">- ¡Envíanos todo!</h4>
 			          <p>Firma y escanea la ficha, adjunta una copia de tu credencial escolar e identificación oficial (Pasaporte, IFE, Carnet de Identidad), la copia de tu cortometraje en los formatos especificados en los lineamientos y envíanos el paquete a:</p>
 			          <p>
 			          Universidad Iberoamericana<br>
@@ -38,7 +38,7 @@
     <div class="small-11 small-centered medium-5 medium-uncentered medium-push-1 large-4 large-uncentered large-push-1 columns"> 
       <div class="panel boxshadow">
           <h5><strong>Consulta los Lineamientos</strong></h5>
-          <p>Descarga este documento con los lineamientos del concurso.</p>
+          <p>Descarga este documento con los Lineamientos del concurso.</p>
           <a href="documentos/Lineamientos_Kinoki_2015.pdf" class="small button">
 		          <div class="pdf">
 				      <svg version="1.1" viewBox="0 0 92 100" preserveAspectRatio="xMinYMin meet" xml:space="preserve">
@@ -53,8 +53,8 @@
            
       <div class="small-11 small-centered medium-5 medium-uncentered medium-push-1 large-4 large-uncentered large-push-1 columns">
 		  <div class="panel boxshadow">
-          <h5><strong>Descarga la Ficha de Registro</strong></h5>
-          <p>Descarga este documento con la ficha de registro.</p>
+          <h5><strong>Ficha de Registro</strong></h5>
+          <p>Descarga este documento con la Ficha de Registro.</p>
           
           <a href="documentos/Ficha_de_Registro_Kinoki_2015.pdf" class="small button">
 		          <div class="pdf">
@@ -73,7 +73,7 @@
       <div class="row">
       	<div class="small-11 small-centered medium-8 large-7 large-uncentered columns">
             <div class="panel boxshadow">
-              <p>Si tienes dudas consulta nuestro <strong><a class="faqlink" data-scroll-nav="5">F.A.Q.</a></strong> Y si aún tienes dudas contáctanos a: <strong>contacto@festivalkinoki.com</strong></p>
+              <p>Si tienes dudas, consulta nuestro <strong><a class="faqlink" data-scroll-nav="5">F.A.Q.</a></strong> Si aún no son resueltas, contáctanos a: <strong>contacto@festivalkinoki.com</strong></p>
             </div>
           </div>
       </div>

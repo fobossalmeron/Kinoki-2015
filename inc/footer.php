@@ -3,7 +3,7 @@
 
 	<div class="row">
       <div class="small-12 small-centered columns">
-        <h3 class="pshadow">Conéctate con el festival!</h3>
+        <h3 class="pshadow">¡Conéctate con el festival!</h3>
       </div>
 	</div>
 

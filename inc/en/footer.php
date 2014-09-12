@@ -67,7 +67,7 @@
       <li><a data-scroll-nav="0">Home</a></li>
       <li><a data-scroll-nav="1">About</a></li>
       <li><a data-scroll-nav="2">Blog</a></li>
-      <li><a data-scroll-nav="3">Registration</a></li>
+      <li><a data-scroll-nav="3">Submissions</a></li>
       <li><a data-scroll-nav="4">Contact</a></li>
       <li><a data-scroll-nav="5">F.A.Q.</a></li>
       <li><a data-scroll-nav="6">Sponsors</a></li>

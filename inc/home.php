@@ -1,6 +1,6 @@
 <div class="divrojo" id="bienvenida" data-scroll-index='0'>
    	 <div class="idioma">
-		  <p><strong>Es</strong> / <a href="en/">En</a></p>
+		  <p>Es / <a href="en/">En</a></p>
 	 </div>
 
 	 <div class="row">

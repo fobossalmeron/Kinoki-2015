@@ -10,9 +10,9 @@
 
       <div class="row">
 	      <div class="small-11 small-centered large-12 columns">
-	      		<h3 class="pshadow">Visita nuestro <a href="http://blog.festivalkinoki.com">Blog Oficial</a>.</h3>
+	      		<h3 class="pshadow">Visit our <a href="http://blog.festivalkinoki.com">Official Blog</a>.</h3>
 	      		<hr>
-	            <p>Entérate de las últimas noticias, reseñas y eventos del Kinoki 2015.</p>
+	            <p>Stay updated with content from our festival.</p>
 	      </div>
       </div>
       
@@ -32,7 +32,7 @@
 					    <p class="caption"><?php echo $posts["post1en"]["caption"]; ?></p>
 					</div>
 				</li>
-				
+				<?php/*
 			  <li data-orbit-slide="headline-2">
 					 <div>
 						<a href="<?php echo $posts["post2en"]["postlink"];?>">
@@ -55,7 +55,7 @@
 						<h3 class="caption"><?php echo $posts["post3en"]["title"]; ?></h3>
 						<p class="caption"><?php echo $posts["post3en"]["caption"]; ?></p>
 					</div>
-			  </li>
+			  </li> */?>
 			</ul>
         </div>
       </div>

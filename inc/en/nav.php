@@ -11,7 +11,7 @@
         <li>BLØG</li>
       </a>
       <a data-scroll-nav='3' href="#registro" class="menu-link">
-        <li>REGISTRATIØN</li>
+        <li>SUBMISSIØNS</li>
       </a>
       <a data-scroll-nav='4' href="#contacto" class="menu-link">
         <li>CØNTACT</li>

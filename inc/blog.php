@@ -32,7 +32,7 @@
 					    <p class="caption"><?php echo $posts["post1"]["caption"]; ?></p>
 					</div>
 				</li>
-				
+				<?php /*
 			  <li data-orbit-slide="headline-2">
 					 <div>
 						<a href="<?php echo $posts["post2"]["postlink"];?>">
@@ -55,7 +55,7 @@
 						<h3 class="caption"><?php echo $posts["post3"]["title"]; ?></h3>
 						<p class="caption"><?php echo $posts["post3"]["caption"]; ?></p>
 					</div>
-			  </li>
+			  </li> */ ?>
 			</ul>
         </div>
       </div>

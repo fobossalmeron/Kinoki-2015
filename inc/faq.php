@@ -15,7 +15,7 @@
 		      			<h5>¿Hasta cuándo tengo para enviar mi corto?</h5>
 		      		</div>
 		      		
-		<p>La convocatoria para participar en la competencia oficial del Festival Internacional de Cine Universitario KINOKI 2015 se abre el <strong>12 de septiembre</strong> de 2014 y cierra el <strong>12 de enero del 2015</strong>.</p>
+		<p>La convocatoria para participar en la competencia oficial del Festival Internacional de Cine Universitario KINOKI 2015 se abre el <strong>12 de septiembre</strong> de 2014 y cierra el <strong>15 de enero del 2015</strong>.</p>
 		 
 					<div class="panel boxshadow">
 						<h5>¿Quién puede participar en la competencia?</h5>

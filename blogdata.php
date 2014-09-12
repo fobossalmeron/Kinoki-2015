@@ -3,18 +3,18 @@
 $posts = array(
  /*Noticia 1 Español*/
  'post1' => array(
- 			 'title' => 'Post de prueba 1',
-			 'caption' => 'Descripción de post',
-			 'imagelink' => 'http://www.voyagesphotosmanu.com/Complet/images/mono_capuchino.jpg',
-			 'postlink' => 'http://blog.festivalkinoki.com/2014/08/22/post-de-prueba/'
+ 			 'title' => '¡Convocatoria Abierta!',
+			 'caption' => 'Te invitamos a participar en el la Decimoprimera Edición del Festival Internacional de Cine KINOKI. Convocatoria abierta del 12 de Septiembre de 2014 al 15 de Enero de 2015.',
+			 'imagelink' => '../images/noticias/convocatoria.jpg',
+			 'postlink' => 'http://blog.festivalkinoki.com/2014/09/12/kinoki-convocatoria-abierta/'
 		   ),
 
  /*Noticia 1 Ingles*/
  'post1en' => array(
- 			 'title' => 'Test post 1',
-			 'caption' => 'Post description',
-			 'imagelink' => 'http://www.voyagesphotosmanu.com/Complet/images/mono_capuchino.jpg',
-			 'postlink' => 'http://blog.festivalkinoki.com/2014/08/22/post-de-prueba/'
+ 			 'title' => 'Call for Entries!',
+			 'caption' => 'The Eleventh Edition of the KINOKI International Student Film Festival is now open for submissions.',
+			 'imagelink' => '../images/noticias/convocatoria.jpg',
+			 'postlink' => 'http://blog.festivalkinoki.com/2014/09/12/kinoki-convocatoria-abierta/'
 		   ),
 		   
 		   

@@ -99,18 +99,18 @@
 			  <h5 class="textshadow-blanco">Prensa:</h5>
 			    <p>Alonso Salamanca<br>
 					alonso.salamanca@festivalkinoki.com</p>
+					
+			  <h5 class="textshadow-blanco">Programación:</h5>
+				<p>Ana Cristina Morón<br>
+					cristina.moron@festivalkinoki.com</p>
 		  </div>
   </div>
       
   <div class="small-12 small-centered medium-6 medium-uncentered large-4 large-push-2 columns">
 	  
 	  <div class="panel boxshadow" data-equalizer-watch>	  
-	   
-			<h5 class="textshadow-blanco">Programación:</h5>
-				<p>Ana Cristina Morón<br>
-					cristina.moron@festivalkinoki.com</p>
 			
-			<h5 class="textshadow-blanco">Invitados:</h5>
+			<h5 class="textshadow-blanco">Invitados Especiales:</h5>
 				<p>Jorge de la Tijera<br>
 					jorge.tijera@festivalkinoki.com</p>
 			
@@ -121,6 +121,10 @@
 			<h5 class="textshadow-blanco">Relaciones Públicas:</h5>
 				<p>María José Corral<br>
 					mariajose.corral@festivalkinoki.com</p>
+								
+			<h5 class="textshadow-blanco">Diseño y Materiales Gráficos:</h5>
+				<p>Rodrigo Salmerón<br>
+					ro@rodrigosalmeron.mx</p>
 	  </div>
 	</div>
 

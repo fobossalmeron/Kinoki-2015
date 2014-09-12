@@ -13,8 +13,7 @@
 	      <h3 class="pshadow hideme">Presentación</h3>
 	      	<hr>
 	          <p>El Festival Internacional de Cine Universitario KINOKI fue creado en el 2004 por alumnos de la Universidad Iberoamericana debido a la necesidad de dar voz y difusión a los cineastas universitarios. <br>
-El nombre KINOKI está basado principalmente en la filosofía del cine-verdad (kino-pravda) perteneciente al cineasta soviético Dziga Vértov, pensamiento emancipador que buscaba expresar una verdad más profunda que la que percibe el ojo humano a través del séptimo arte.
-.<br>
+El nombre KINOKI está basado principalmente en la filosofía del cine-verdad (kino-pravda) perteneciente al cineasta soviético Dziga Vértov. Dicho pensamiento, en su calidad de emancipador, buscaba expresar una verdad más profunda que la que percibe el ojo humano a través del séptimo arte.<br>
 Por medio de la exhibición de cortometrajes de ficción, investigación documental, animación y de corte experimental, el Festival KINOKI ha promovido desde hace once años la cultura cinematográfica y el desarrollo de estudiantes universitarios con un interés en el cine.</p>		
 	  </div>
 	</div>
@@ -29,7 +28,7 @@ Por medio de la exhibición de cortometrajes de ficción, investigación documen
 Nos interesa propiciar espacios de discusión y aprendizaje en los que, tanto estudiantes como creadores, puedan analizar la realidad actual en la que se encuentra el mundo. El objetivo es que se logre generar contenidos cinematográficos conscientes, críticos, propositivos y de calidad. Estos espacios de diálogo se darán a través de conferencias y master classes impartidas por profesionales en el ámbito cinematográfico nacional e internacional. <br>
 En esta décimo-primera edición,  el festival considera a Dinamarca como país invitado debido a sus grandes aportes al desarrollo del arte cinematográfico universal y en la diversidad de su propia industria.</p>
 <p>
-<strong class="pshadow">César Ortíz</strong><br>
+<strong class="pshadow">César Ortiz</strong><br>
 Director General
 </p>
 	  		</div>
@@ -40,7 +39,7 @@ Director General
 	  <div class="small-11 small-centered large-12 columns">
 	      <h3 class="pshadow hideme">Convocatoria	<p class='bolder'>País invitado: Dinamarca</p></h3>
 	      	<hr>
-	          <p>El Festival Internacional de Cine Universitario KINOKI, junto con la Universidad Iberoamericana Ciudad de México, convoca a todos los estudiantes a participar en la competencia y muestra oficial de cortometrajes universitarios en el marco de su décimo primera edición, celebrada del 6 al 10 de abril del año 2015.</p>
+	          <p>El Festival Internacional de Cine Universitario KINOKI, junto con la Universidad Iberoamericana Ciudad de México, convoca a todos los estudiantes a participar en la competencia y muestra oficial de cortometrajes universitarios en el marco de su decimoprimera edición, celebrada del 6 al 10 de abril del año 2015.</p>
 	          <p class="pshadow bolder">Convocatoria abierta del 12 de septiembre de 2014 al 15 de enero de 2015.</p>
 	          <p>Las categorías de selección son: 
 		          <ul class="categorias pshadow">
@@ -50,8 +49,8 @@ Director General
 					  <li>Experimental</li>
 		          </ul>
 	          </p>
-	          <p>Consulta las bases en la sección de <span data-scroll-nav='3'>Registro</span><br>
-	          Para dudas o aclaraciones, se puede consultar la sección de <span data-scroll-nav='5'>FAQ</span> o alternativamente, se puede contactar al festival a través del correo electrónico <strong>contacto@festivalkinoki.com</strong>.
+	          <p>Consulta las bases en la sección de <a data-scroll-nav='3'>Registro</a>.<br>
+	          Para dudas o aclaraciones, se puede consultar la sección de <a data-scroll-nav='5'>FAQ</a> o alternativamente, se puede contactar al festival a través del correo electrónico <strong>contacto@festivalkinoki.com</strong>.
 	          </p>
 	 </div>
 	</div>  
@@ -65,13 +64,11 @@ Director General
 		      <div id="panel1" class="content active">
 		       <dl class="tabs" data-tab>
 		        <dd><a href="#panel2-2004">2004</a></dd>
-		        <dd><a href="#panel2-2005">2005</a></dd>
 		        <dd><a href="#panel2-2006">2006</a></dd>
 		        <dd><a href="#panel2-2007">2007</a></dd>
 		        <dd><a href="#panel2-2008">2008</a></dd>
 		        <dd><a href="#panel2-2009">2009</a></dd>
 		        <dd><a href="#panel2-2010">2010</a></dd>
-		        <dd><a href="#panel2-2011">2011</a></dd>
 		        <dd><a href="#panel2-2012">2012</a></dd>
 		        <dd><a href="#panel2-2013">2013</a></dd>
 		        <dd class="active"><a href="#panel2-2014">2014</a></dd>
@@ -80,40 +77,136 @@ Director General
         
 		        <div class="content active" id="panel2-2014">
 		          <p>
-			          A diferencia de las demás ediciones, el KINOKI 2014 hizo mucho hincapié en la ideología detrás del caballo que fue representativo para la imagen del festival. ¿Por qué un caballo? La idea del logo de ésta edición del festival proviene de la idea de “caballo en movimiento” de Eadweard Muybridge, quién por medio de la técnica del fotógrafa demostró que en un punto del trote del caballo todos sus casos se encuentran en el aire, siendo una aportación de paraguas para el mundo de la tecnología y el cine a venir.<br> 
-Con la participación del Estado de Israel como invitado especial, tuvimos la oportunidad de tener a la banda Klezmerson (fundada por Benjamín Schwartz en el 2003) que parte de un precepto de crear música a partir de una combinación de melodías y ritmos de la tradición judía de Europa del Este con influencias latinoamericanas.<br>
-Una vez más se contó con el apoyo del CutOut Fest con 10 cortometrajes premiados en su última edición con la finalidad de promover al festival y a los directores galardonados.</p>
+			          A diferencia de las demás ediciones, el KINOKI 2014 hizo mucho hincapié en la ideología detrás del caballo que fue representativo para la imagen del festival. ¿Por qué un caballo? La idea del logo de esta edición proviene de la idea de “caballo en movimiento” de Eadweard Muybridge, quien por medio de la técnica fotográfica, demostró que en un punto del trote del caballo todos sus casos se encuentran en el aire, siendo una aportación de parte aguas para el mundo de la tecnología y el cine a futuro. <br>
+			          <br>
+Con la participación del Estado de Israel como invitado especial, se tuvo la oportunidad de tener a la banda Klezmerson (fundada por Benjamín Schwartz en el 2003) que parte de un precepto de crear música a partir de una combinación de melodías y ritmos de la tradición judía de Europa del Este con influencias latinoamericanas.
+Una vez más se contó con el apoyo del CutOut Fest con 10 cortometrajes premiados en su última edición con la finalidad de promover al festival y a los directores galardonados. 
+</p>
 		        </div>
 		        
 		        <div class="content" id="panel2-2013">
 		         <p>
-			      En ésta edición, se hizo hincapié en el cine latinoamericano, por la fuerza que dicho cine ha estado adquiriendo, pero también por la falta de apreciación que obtiene el mismo.<br>
-Master classes: Hermino Gutierrez: Supervisión musical, Christian Valdèlievre: Producción, Martha Sosa, Producción, Roberto Fiesto: Producción. <br>
-Muestra del CutOut Fest: festival encargado de la difusión de la animación como vehículo de expresión artística. <br>
-Mejor corto animado: Mouth Wide Open, Ears Shut Tight - Tom Mndar y Emily Noy<br>
-Mejor documental: Sr. Siebzehnruebl - Tuna Kaptan <br>
-Mejor cortometraje de ficción: Ceremony - Noa Levin<br>
-Mejor cortometraje extranjero: Sr. Siebzehnruebl - Tuna Kaptan<br>
-Mejor cortometraje mexicano: B-Boy - Abraham Escobedo<br>
-Mejor dirección: Sr. Siebzehnruebl - Tuna Kaptan<br>
-Mención honorífica documental: B-Boy - Abraham Escobedo<br>
-Mención honorífica experimental: This is the closest to how footage looked - Yuval Hameiri<br>
-Mejor edición: Ceremony - Noa Levin</p>
+			     En esta edición se hizo hincapié en el cine latinoamericano por la fuerza que ha estado adquiriendo, pero también por la falta de apreciación mundial que obtiene. <br>
+<br>
+<span class="oblique">Master classes:</span>
+<ul>
+<li>Hermino Gutiérrez, Supervisión musical.</li>
+<li>Christian Valdèlievre, Producción.</li>
+<li>Martha Sosa, Producción.</li>
+<li>Roberto Fiesto, Producción.</li>
+</ul>
+<span>Muestra del CutOut Fest: (Festival encargado de la difusión de la animación como vehículo de expresión artística)</span><br>
+<br>
+<ul>
+<li>Mejor corto animado: Mouth Wide Open, Ears Shut Tight - Tom Mndar y Emily Noy.</li>
+<li>Mejor documental: Sr. Siebzehnruebl - Tuna Kaptan.</li>
+<li>Mejor cortometraje de ficción: Ceremony - Noa Levin.</li>
+<li>Mejor cortometraje extranjero: Sr. Siebzehnruebl - Tuna Kaptan.</li>
+<li>Mejor cortometraje mexicano: B-Boy - Abraham Escobedo.</li>
+<li>Mejor dirección: Sr. Siebzehnruebl - Tuna Kaptan.</li>
+<li>Mención honorífica documental: B-Boy - Abraham Escobedo.</li>
+<li>Mención honorífica experimental: This is the closest to how footage looked - Yuval Hameiri.</li>
+<li>Mejor edición: Ceremony - Noa Levin.</li>
+</ul>
+			     </p>
 		        </div>
 		        
 		        <div class="content" id="panel2-2012">
-		          <p>La octava edición, dirigida por Danae Silva y Alex Salinas, se repitieron los eventos característicos del festival, es decir, la proyección como autocinema de la película  “LCD Soundsystem: Shut up and play the hits”. Además, la selección y premiación, fue a cargo de jurados tan importantes como Sebastián Silva, conocido por su trabajo de asistencia de dirección para grandes directores como Terrence Malik o Alejandro González Iñárritu, y que, accedió a una master class para el festival. El invitado de la edición era España y se cerró el festival con una proyección de los ganadores 2012 en la Casa del Lago.</p>
-		        </div>
-
-				<div class="content" id="panel2-2011">
-		          <p>En la séptima edición fue dirigida por Jannike Curuchet y Ximena Calvo. Se llevó a cabo del 21 al 25 de febrero de 2011. 
-		En esta edición se rindió homenaje a Dziga Vertov, fundador del movimiento cinematográfico que inspiró el nombre del festival, resaltando la esencia de este pilar del cine soviético. Tuvimos el honor de contar con la asistencia de personalidades de la talla de Nelson Carro,  Víctor Ugalde y Annette Fradera quienes ofrecieron conferencias y Máster Classes. Esta edición contó con estrenos como “La Guerrera”, documental  de Paulina del Paso y ciclos especiales de cortometrajes de la NYU y USC. Y también se proyecta los ganadores de CUTOUT FEST.</p>
+		          <p>
+		          En la edición de KINOKI 2012 tenemos el gusto de haber podido encontrar a los ganadores de las diferentes categorías, pero el disgusto de no poder proporcionar conceptos ni estructura de esta octava edición. <br>
+		          <ul>
+<li>Mejor corto extranjero: El vampirito - Pablo Navarro-Rubio. </li>
+<li>Mejor ficción: El vampirito - Pablo Navarro-Rubio.</li>
+<li>Premio del púlico: De tierra - Ilana Coleman.</li>
+<li>Mejor documental: Nunca, nunca, no dejé ir - Moisés Aisemberg.</li>
+<li>Mejor animación: W&C - Daniel Rosas Paulsen.</li>
+<li>Mejor fotografía: Yuban - Yassib Vázquez.</li>
+<li>Mejor guión: Ciudad Juárez - René Olivas Gastélum.</li>
+<li>Mejor dirección: Ludzie Normalni - Piotr Zlotorowicz.</li>
+<li>Mejor diseño de audio: Érase una vez - Alejandro Ríos Rodríguez.</li>
+<li>Mejor edición: Dime quién eres - Jesús Castorena, Jorge Castillo, Brandohn Cruz y Magdiel Sanmiguel.</li>
+</ul>
+		          </p>
 		        </div>
 
 				<div class="content" id="panel2-2010">
-		          <p>La sexta edición del festival estuvo dirigida por Alina Montero y Ana Fernández.
-		En esta edición se hizo un homenaje al cine mexicano, celebrando así los 50 años de la carrera de Comunicación en la Universidad Iberoamericana, al igual que el Bicentenario de la Independencia y el Centenario de la Revolución. Durante la semana del 15 al 19 de febrero del 2010 se invitaron a cineastas mexicanos, y ex-alumnos de la Ibero a dar master-classes. Entre ellos estuvieron: Carlos Carrera, Simón Bross, Roberto Schneider, Gustavo Loza y Humberto Hinojosa. Para celebrar el cine mexicano se llevaron a cabo dos muestras importantes: Universitarios Mexicanos, una proyección que juntaba los mejores cortometrajes del CUEC y el CCC de los últimos años; 50 Años de Cortos, en dónde se reunieron los mejores trabajos audiovisuales de la Universidad Iberoamericana desde sus inicios. Kinoki contó con el estreno de películas como “La Última y Nos Vamos” de Eva López Sánchez, “Stanley Sprockets: 101 ways to make a World Tour” de Erik Zavala y “White Lightning” de Dominic Murphy. En el autocinema se proyectó “The Boat That Rocked” dirigida por Richard Curtis.</p>
+		          <p>
+			          El país invitado este año fue México con motivo del 50 aniversario de la carrera de Comunicación de la Universidad Iberoamericana y con el compromiso de difundir el cine nacional. Se recibieron más de 120 cortometrajes nacionales e internacionales incluyendo a países como Eslovenia, Alemania, Italia, Chile, Argentina, Estado Unidos, Chile, Bélgica y España, entre otros. Los cortos seleccionados se proyectaron bajo las categorías de Ficción, Animación, Experimental y Documental. <br>
+			          <br>
+En la Inauguración, se llevó a cabo una presentación montada por la compañía de teatro Humanicorp (híbrido de atletas, bailarines y creadores) en la cual se hizo una reinterpretación de escenas de películas mundialmente conocidas a través de la danza y las artes circenses. Como sedes alternas, se contó con Flim Clib Café (Naucalpan), Conejo Blanco (Hipódromo La Condesa), SOGEM, Jaime Castilla, Escuela de Escritores (Coyoacán), Faro Tláhuac (Miguel Hidalgo), Centro Cultural BORDER (Roma Sur) y el Foro Cultural MUJAM (Col. Doctores).
+		          </p>
+		        </div>
+
+				<div class="content" id="panel2-2009">
+		          <p>
+			          En su quinta edición, el Festival KINOKI consideró a Francia como país invitado al ser el país creador de la cinematografía, para que compartiera lo mejor de su cine contemporáneo por medio de la presentación de cortometrajes exhibidos en el festival de cortometrajes más importante del mundo: Clermont-Ferrand, así como una selección de animaciones propuesta por el festival Annecy. Además se tuvo el honor de tener a Mathieu Kassovitz como invitado especial. <br>
+A nivel nacional, se contó con el apoyo del Festival Internacional de Cine de Morelia y el Festival Internacional de Cine Expresión en Corto. 
+		          </p>
 		      </div>
+		      
+		      <div class="content" id="panel2-2008">
+		          <p>
+			          Este año, el Festival KINOKI unió fuerzas con el Festival Africala, en la quinta y segunda edición de cada uno, respectivamente. El festival Africala es un movimiento, primero en su tipo, que surgió en Latinoamérica por la necesidad de un foro para la difusión del cine Africano, continente que es constantemente obviado. Este cine busca recuperar los valores tradicionales y la integración de los propios africanos, además de reflexionar sobre la dignidad del continente, de acabar con los prejuicios sobre Africa y de consolidar la paz y la reconciliación. La programación de Africala incluyó: After Sour Before Sween - William Owusu (Kenya), In my Genes - Lupita Nyong’o (Kenya), Short Message Service - Aleks Kamau (Kenya), Kibera Kids - Nathan Collet (Kenya) y And There Is Dust - Lara Foot Newton y Gerhard Marx (Sudáfrica).<br>
+Así mismo, este año se contó con la participación la Muestra Oficial VIART, festival de cortometrajes iberoamericanos realizado cada año en Caracas, Venezuela. 
+STRAIGHT 8: Se realizó una competencia de cortometrajes filmados en formato de cine Súper 8mm, bajo los parámetros de que sólo se podría utilizar un cartucho de película Súper 8mm, edición, cortes de cámara y música o audio original. El primer lugar compitió en la categoría Straight 8, en el Kodak Pavillion, en el festival de Cannes 2008. 
+El Auditorio Nacional apoyó con sedes alternas como la Universidad Vasco de Quiroga y el Centro de Capacitación Cinematográfica  (CCC) durante su programa “Cortos para no pasar de largo”.<br>
+<br>
+Los ganadores en las diferentes categorías de la cuarta edición del festival fueron: 
+<ul>
+<li>Mejor guión: La verdad de Iris - Erick Cruz Ramírez.</li>
+<li>Mejor documental: Masha Kostiurina – Praznik.</li>
+<li>Mejor fotografía: Andrés Santamaría - Ojo de Pez.</li>
+<li>Mejor diseño de producción: María del Mar Hernández - Niebla.</li>
+<li>Mejor ficción: Valeria Ruiz - A moment.</li>
+<li>Premio de jurado: Valeria Ruiz - A moment.</li>
+<li>Mejor dirección: Valeria Ruiz - A moment.</li>
+<li>Mejor experimental: Erick Cruz Ramírez - La verdad de Iris.</li>
+<li>Mejor diseño de producción: Emilio Ramos - Niebla y María del Mar Hernández – Niebla. </li>
+<li>Mejor corto mexicano: Erick Cruz Ramírez - La verdad de Iris.</li>
+</ul>
+		          </p>
+		      </div>
+		      
+		      <div class="content" id="panel2-2007">
+		         <p>
+Con más de 200 cortometrajes recibidos a nivel nacional e internacional, en el año 2007 sólo compitieron 54 en la selección oficial y fueron evaluados por un Jurado en el cual destacaron personalidades como Antonio Serrano (Director), Luciana Cabarga (fundadora de las Film Commission en México) y Ana Cruz (Ex-Directora de Difusión y Programación de la Cineteca Nacional). <br>
+Este año, El Festival Internacional de Cine de Acapulco y el Festival de Cine de Ecatepec apoyaron con la proyección de los cortometrajes ganadores y la Revista Indie Rocks!, así como el Programa Espacio E! por Telehit, Televisa hicieron menciones importantes del festival, apoyando a su difusión.
+		          </p>
+		           <p class="oblique">
+			           “Este año el compromiso es mayor. El festival KINOKI 2007, consolidado como uno de los más importantes a nivel nacional para la difusión de trabajos universitarios, abre la convocatoria para inscripción de cortometrajes hasta el 20 de enero. Es una oportunidad para los estudiantes y para la difusión de talento, esfuerzo y trabajo de los creadores mexicanos”.</p>
+<p>
+<strong class="pshadow">Santiago Fábregas</strong><br>
+Director General
+</p>
+		      </div>
+		      
+		         <div class="content" id="panel2-2006">
+		         <p>
+En esta edición del festival se recibieron más de 200 cortometrajes provenientes de toda la república, de los cuales 80 compitieron en la selección oficial. Así mismo, se dieron más de 500,000 pesos en premios en especie con la finalidad de fomentar la creación de cine universitario. <br>
+Gracias a la difusión del festival en el ámbito cinematográfico, esta edición contó con la participación de diferentes localidades para la realización de eventos fuera de la Universidad Iberoamericana, como el “Hotel Virreyes” ubicado en el Centro Histórico, que apoyó en la Fiesta de Inauguración, y la “Galería O” para la Fiesta de Clausura. Así mismo fue inaugurado  el Auto cinema como forma de proyección y apoyo alterna a las tradicionales. <br>
+El Festival Internacional de Cine Contemporáneo de la Ciudad de México (FICCO), el Festival Internacional de Cine UNIFEST en Aranjuez, Madrid y la Embajada de México en Japón, brindaron apoyo al festival y proyectaron los cortometrajes ganadores en sus localidades. 
+
+		          </p>
+		           <p class="oblique">
+			           “KINOKI es un movimiento social en busca de desarrollo cultural y la consciencia social.”</p>
+<p>
+<strong class="pshadow">José Luis Aranda</strong><br>
+Director General
+</p>
+		      </div>
+		      
+		      <div class="content" id="panel2-2004">
+		          <p>
+			          La idea fue inicialmente concebida por el alumno José Luis Aranda. Siendo el primer año, las presentaciones se llevaron a cabo solamente dentro de las instalaciones de la Universidad Iberoamericana, pues fue pensado como un proyecto local. Sin embargo, el festival tuvo una muy buena aceptación y diversos logros que lo colocaron en el mapa: 
+			          <ul>
+<li>Exhibición del cortometraje ganador en FICCO 2005.</li>
+<li>Televisa y Telehit transmitieron tres de los cortos finalistas en “Espacio 2005”.</li>
+<li>La fundación Rockefeller de Nueva York nominó a los dos realizadores del corto ganador a su beca “Program for Media Arts”. </li>
+<li>En el Canal 22, fueron presentados en el programa “Corto y Queda” tres de los cortos ganadores y fueron realizadas entrevistas a la directora del Departamento de Comunicación así como al coordinador del área de cine. </li>
+			          </ul>
+		          </p>
+		      </div>
+		      
       </div>
     </div>
   </dd>

@@ -1,9 +1,7 @@
 # Kinoki 2015
 
-Festival Internacional de Cine Universitario
+##Festival Internacional de Cine Universitario
 
-# Falta
+* Falta
 
-## Registro
-Textos en Inglés
-
+## Retroscopio Inglés

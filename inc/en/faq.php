@@ -12,35 +12,24 @@
       <div class="small-11 small-centered large-8 large-centered columns">
       		
 		      		<div class="panel boxshadow">
-		      			<h5>¿Hasta cuándo tengo para enviar mi corto?</h5>
+		      			<h5>When is the deadline to submit my short film?</h5>
 		      		</div>
 		      		
-		<p>La convocatoria para participar en la competencia oficial del Festival Internacional de Cine Universitario KINOKI 2015 se abre el <strong>12 de septiembre</strong> de 2014 y cierra el <strong>12 de enero del 2015</strong>.</p>
+		<p>If you want to send your short film to the official selection of the KINOKI International Student Film Festival, the call of entries will begin on <strong>September 12th 2014</strong> and will close on <strong>January 14th 2015</strong>.</p>
 		 
 					<div class="panel boxshadow">
-						<h5>¿Quién puede participar en la competencia?</h5>
+						<h5>Who’s allowed to participate?</h5>
 					</div>
 					
-<p>La convocatoria está abierta para todos los estudiantes universitarios del mundo, no es necesario ser estudiante de cine. Sin embargo, en caso de ya haber concluido los estudios, es necesario demostrar que los realizadores no excedan los dos años de haberse graduado.
+<p>The call for entries is open to all students across the globe, there’s no need to be a film student. The only requirement is not exceeding two years after you graduated.
 </p>
 		 
 					<div class="panel boxshadow">
-						<h5>¿Puedo recuperar la copia que envié de mi corto una vez terminado el festival?</h5>
+						<h5>Will I get the DVD with my copy inside back, once the festival is over? </h5>
 					</div>
 					
-<p>Todas las copias que sean enviadas al Festival son archivadas y no serán devueltas al finalizar el mismo. Si se desea recuperarlas, los realizadores deberán solicitar la devolución al correo electrónico: <strong>contacto@festivalkinoki.com</strong> al término del festival y pagar el envío del material o recogerlo directamente en las oficinas dentro de la Universidad Iberoamericana.</p>
+<p>Every copy sent to the festival will be archived. They will not be returned once the festival is over. If you want to get them you’ll have to send an email to contacto@festivalkinoki.com. You’ll have to pay for the shipment of the material or you can pick it up at the Universidad Iberoamericana.</p>
 		 
-					<div class="panel boxshadow">
-						<h5>¿Qué necesito hacer para participar como voluntario?</h5>
-					</div>
-					
-<p>Uno de los retos que se propone el Festival es generar una comunidad estudiantil a partir del gusto de ver, compartir, discutir, pensar y hacer cine. El festival es coordinado por estudiantes y siempre nos es útil más ayuda. Para participar, envía un mail con tus datos y una breve descripción de por qué quieres trabajar con nosotros a <strong>contacto@festivalkinoki.com</strong>.</p>
-		 
-					<div class="panel boxshadow">
-						<h5>¿Puedo participar en el equipo KINOKI sin ser estudiante de la UIA?</h5>
-					</div>
-					
-<p>A pesar de que el festival tiene su origen en la Universidad Iberoamericana, el festival busca volverse un espacio en el que la comunidad estudiantil cinéfila del mundo se pueda reunir. Para esto, necesitamos también del apoyo de estudiantes de diferentes universidades para que así aporten diversidad y un verdadero sentimiento de unión. Todos aquellos interesados, sin importar dónde o qué estudien, están cordialmente invitados a colaborar en la realización del festival.</p>
 		       
       </div>
     </div>
