@@ -68,24 +68,20 @@
 		  <div class="panel boxshadow" data-equalizer-watch>
 		  
 			  <h5 class="textshadow-blanco">General Direction:</h5>
-			  	<p>César Ortiz <br>
-				  	cesar.ortiz@festivalkinoki.com</p>
-
-			  <h5 class="textshadow-blanco">Production:</h5>
-			    <p>Diego Rodríguez <br>
+			  	<p>Diego Rodríguez <br>
 					diego.rodriguez@festivalkinoki.com</p>
 
-			  <h5 class="textshadow-blanco">Institutional and Media Relations:</h5>
-			    <p>Alejandra Quevedo<br>
-					alejandra.quevedo@festivalkinoki.com</p>
+			  <h5 class="textshadow-blanco">Production:</h5>
+			    <p>Federico González <br>
+				  	federico.gonzalez@festivalkinoki.com</p>
 
-			  <h5 class="textshadow-blanco">Press:</h5>
-			    <p>Alonso Salamanca<br>
-					alonso.salamanca@festivalkinoki.com</p>
-					
-					<h5 class="textshadow-blanco">Program Management:</h5>
-				<p>Ana Cristina Morón<br>
-					cristina.moron@festivalkinoki.com</p>
+			  <h5 class="textshadow-blanco">Programming:</h5>
+					<p>César Ortíz <br>
+				  	cesar.ortiz@festivalkinoki.com</p>
+
+			  <h5 class="textshadow-blanco">Special Guests:</h5>
+					<p>Jorge de la Tijera<br>
+					jorge.tijera@festivalkinoki.com</p>
 		  </div>
   </div>
       
@@ -93,19 +89,19 @@
 	  
 	  <div class="panel boxshadow" data-equalizer-watch>	  
 			
-			<h5 class="textshadow-blanco">Special Guests:</h5>
-				<p>Jorge de la Tijera<br>
-					jorge.tijera@festivalkinoki.com</p>
-			
 			<h5 class="textshadow-blanco">Offsite Venues:</h5>
 				<p>Paulina López<br>
 					paulina.lopez@festivalkinoki.com</p>
-			
+
+			  <h5 class="textshadow-blanco">Media & Press:</h5>
+			   		<p>Bastian Burckhardt<br>
+					bastian.burckhardt@festivalkinoki.com</p>
+
 			<h5 class="textshadow-blanco">Public Relations:</h5>
 				<p>María José Corral<br>
 					mariajose.corral@festivalkinoki.com</p>
-					
-			<h5 class="textshadow-blanco">Image and Graphic Material:</h5>
+								
+			<h5 class="textshadow-blanco">Design:</h5>
 				<p>Rodrigo Salmerón<br>
 					ro@rodrigosalmeron.mx</p>
 	  </div>

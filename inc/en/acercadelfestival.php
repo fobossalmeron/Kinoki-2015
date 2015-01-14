@@ -25,11 +25,9 @@ It’s been eleven years since KINOKI International Student Film Festival has pr
 			<div class="callout panel boxshadow">
 	          <p class="oblique">
 	           KINOKI praises outstanding student projects year after year, showcasing the most remarkable short films. It’s very important to us that the festival serves as a bridge of access and exhibition for student film projects. The main objective is to create a constant learning environment in all festival events. Our goal is to develop connections between filmmakers so they can create a relationship with their viewers, and vice versa. <br>
-We want to create environments where debates and learning processes between students and filmmakers take place, and where universal contemporary issues are analysed. It’s crucial for us that young filmmakers produce mindful, critical, suggestive and high quality cintematographic contents. These environments encouraging well-informed dialogue will be held in the form of conferences and master classes given by experienced filmmakers from Mexico and different countries around the world.   <br>
-For the festival’s 11th edition, the guest of honor will be Denmark, considering its strong contributions to universal cinema evolution and its own distinct film industry. 
-</p>
+We want to create environments where debates and learning processes between students and filmmakers take place, and where universal contemporary issues are analysed. It’s crucial for us that young filmmakers produce mindful, critical, suggestive and high quality cintematographic contents. These environments encouraging well-informed dialogue will be held in the form of conferences and master classes given by experienced filmmakers from Mexico and different countries around the world.</p>
 <p>
-<strong class="pshadow">César Ortiz</strong><br>
+<strong class="pshadow">Diego Rodríguez</strong><br>
 Festival Director, <span class="oblique"> 2015 Edition</span>
 </p>
 	  		</div>
@@ -38,7 +36,7 @@ Festival Director, <span class="oblique"> 2015 Edition</span>
 	
 	<div class="row">
 	  <div class="small-11 small-centered large-12 columns">
-	      <h3 class="pshadow hideme">Call for entries<p class='bolder'>Guest of honor: Denmark</p></h3>
+	      <h3 class="pshadow hideme">Call for entries</h3>
 	      	<hr>
 	          <p>KINOKI International Student Film Festival, in collaboration with Universidad Iberoamericana, Mexico City Campus, is now accepting entries for its 2015 edition. The annual competition, and the official student short film showcase, will take place from April 6th to April 10th, 2015.</p>
 	          <p class="pshadow bolder">The call for entries will stay open from September 12th, 2014 to January 15 th, 2015.</p>

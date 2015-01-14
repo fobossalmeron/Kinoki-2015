@@ -68,24 +68,21 @@
 		  <div class="panel boxshadow" data-equalizer-watch>
 		  
 			  <h5 class="textshadow-blanco">Dirección General:</h5>
-			  	<p>César Ortiz <br>
-				  	cesar.ortiz@festivalkinoki.com</p>
-
-			  <h5 class="textshadow-blanco">Producción:</h5>
-			    <p>Diego Rodríguez <br>
+			    	<p>Diego Rodríguez <br>
 					diego.rodriguez@festivalkinoki.com</p>
 
-			  <h5 class="textshadow-blanco">Difusión:</h5>
-			    <p>Alejandra Quevedo<br>
-					alejandra.quevedo@festivalkinoki.com</p>
+			  <h5 class="textshadow-blanco">Producción:</h5>
+			  		<p>Federico González <br>
+				  	federico.gonzalez@festivalkinoki.com</p>
 
-			  <h5 class="textshadow-blanco">Prensa:</h5>
-			    <p>Alonso Salamanca<br>
-					alonso.salamanca@festivalkinoki.com</p>
-					
 			  <h5 class="textshadow-blanco">Programación:</h5>
-				<p>Ana Cristina Morón<br>
-					cristina.moron@festivalkinoki.com</p>
+					<p>César Ortíz <br>
+				  	cesar.ortiz@festivalkinoki.com</p>
+
+			  <h5 class="textshadow-blanco">Invitados:</h5>
+					<p>Jorge de la Tijera<br>
+					jorge.tijera@festivalkinoki.com</p>
+					
 		  </div>
   </div>
       
@@ -93,19 +90,19 @@
 	  
 	  <div class="panel boxshadow" data-equalizer-watch>	  
 			
-			<h5 class="textshadow-blanco">Invitados Especiales:</h5>
-				<p>Jorge de la Tijera<br>
-					jorge.tijera@festivalkinoki.com</p>
-			
 			<h5 class="textshadow-blanco">Sedes Alternas:</h5>
 				<p>Paulina López<br>
 					paulina.lopez@festivalkinoki.com</p>
-			
+
+			  <h5 class="textshadow-blanco">Prensa & Difusión:</h5>
+			   		<p>Bastian Burckhardt<br>
+					bastian.burckhardt@festivalkinoki.com</p>
+
 			<h5 class="textshadow-blanco">Relaciones Públicas:</h5>
 				<p>María José Corral<br>
 					mariajose.corral@festivalkinoki.com</p>
 								
-			<h5 class="textshadow-blanco">Diseño y Materiales Gráficos:</h5>
+			<h5 class="textshadow-blanco">Diseño:</h5>
 				<p>Rodrigo Salmerón<br>
 					ro@rodrigosalmeron.mx</p>
 	  </div>

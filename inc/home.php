@@ -13,7 +13,7 @@
 	      
 		      <img class="logo"  id="logoanima" src="images/logo.svg" alt="Kinoki 2015"/>
 		      <img class="logo" src="images/logo2.svg" alt="Kinoki 2015"/>
-		      <p class="festivaltexto fuerte textoanima">KINOKI<p>
+		      <p class="festivaltexto fuerte textoanima">KINOKI</p>
 		      <p class="festivaltexto light textoanima second">Festival Internacional <br>de Cine Universitario</p>
 		      <p class="festivaltexto italica textoanima third">Decimoprimera Edición</p>
 		      <p class="festivaltexto fecha textoanima fifth"><strong>6</strong>-<strong>10</strong> DE ABRIL</p>

@@ -3,11 +3,11 @@
 	$description = 'KINOKI | Festival Internacional de Cine Universitario | Decimoprimera Edición | 2015';
 	
 ?>
-<?php include ('inc/header.php') ?>
+<?php include ('inc/header.php');?>
   
 <!-- Nav -->
 
-<?php include('inc/nav.php')?>
+<?php include('inc/nav.php');?>
 
 <!-- Home -->
 

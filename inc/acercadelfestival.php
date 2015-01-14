@@ -24,10 +24,9 @@ Por medio de la exhibición de cortometrajes de ficción, investigación documen
 			<div class="callout panel boxshadow">
 	          <p class="oblique">
 	           Año con año el festival KINOKI celebra los mejores trabajos estudiantiles del séptimo arte, proyectando lo más destacable a nivel nacional e internacional. Para nosotros es muy importante que el festival, además de servir como puente de acceso y exhibición de trabajos estudiantiles, se convierta en un espacio en donde el aprendizaje del quehacer cinematográfico sea una constante presente en cada uno de los eventos que se realicen. De esta manera se buscará generar relaciones entre creadores que sirvan para establecer lazos entre creador-espectador y viceversa.<br>
-Nos interesa propiciar espacios de discusión y aprendizaje en los que, tanto estudiantes como creadores, puedan analizar la realidad actual en la que se encuentra el mundo. El objetivo es que se logre generar contenidos cinematográficos conscientes, críticos, propositivos y de calidad. Estos espacios de diálogo se darán a través de conferencias y master classes impartidas por profesionales en el ámbito cinematográfico nacional e internacional. <br>
-En esta décimo-primera edición,  el festival considera a Dinamarca como país invitado debido a sus grandes aportes al desarrollo del arte cinematográfico universal y en la diversidad de su propia industria.</p>
+Nos interesa propiciar espacios de discusión y aprendizaje en los que, tanto estudiantes como creadores, puedan analizar la realidad actual en la que se encuentra el mundo. El objetivo es que se logre generar contenidos cinematográficos conscientes, críticos, propositivos y de calidad. Estos espacios de diálogo se darán a través de conferencias y master classes impartidas por profesionales en el ámbito cinematográfico nacional e internacional.</p>
 <p>
-<strong class="pshadow">César Ortiz</strong><br>
+<strong class="pshadow">Diego Rodríguez</strong><br>
 Director General, <span class="oblique">Edición 2015</span>
 </p>
 	  		</div>
@@ -36,7 +35,7 @@ Director General, <span class="oblique">Edición 2015</span>
 	
 	<div class="row">
 	  <div class="small-11 small-centered large-12 columns">
-	      <h3 class="pshadow hideme">Convocatoria	<p class='bolder'>País invitado: Dinamarca</p></h3>
+	      <h3 class="pshadow hideme">Convocatoria</h3>
 	      	<hr>
 	          <p>El Festival Internacional de Cine Universitario KINOKI, junto con la Universidad Iberoamericana Ciudad de México, convoca a todos los estudiantes a participar en la competencia y muestra oficial de cortometrajes universitarios en el marco de su decimoprimera edición, celebrada del 6 al 10 de abril del año 2015.</p>
 	          <p class="pshadow bolder">Convocatoria abierta del 12 de septiembre de 2014 al 15 de enero de 2015.</p>
@@ -118,7 +117,7 @@ Una vez más se contó con el apoyo del CutOut Fest con 10 cortometrajes premiad
 <li>Mejor ficción: El vampirito - Pablo Navarro-Rubio.</li>
 <li>Premio del público: De tierra - Ilana Coleman.</li>
 <li>Mejor documental: Nunca, nunca, no dejé ir - Moisés Aisemberg.</li>
-<li>Mejor animación: W&C - Daniel Rosas Paulsen.</li>
+<li>Mejor animación: W &amp; C - Daniel Rosas Paulsen.</li>
 <li>Mejor fotografía: Yuban - Yassib Vázquez.</li>
 <li>Mejor guión: Ciudad Juárez - René Olivas Gastélum.</li>
 <li>Mejor dirección: Ludzie Normalni - Piotr Zlotorowicz.</li>
