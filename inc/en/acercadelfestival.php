@@ -38,14 +38,12 @@ Festival Director, <span class="oblique"> 2015 Edition</span>
 	  <div class="small-11 small-centered large-12 columns">
 	      <h3 class="pshadow hideme">Call for entries</h3>
 	      	<hr>
-	          <p>KINOKI International Student Film Festival, in collaboration with Universidad Iberoamericana, Mexico City Campus, is now accepting entries for its 2015 edition. The annual competition, and the official student short film showcase, will take place from April 6th to April 10th, 2015.</p>
-	          <p class="pshadow bolder">The call for entries will stay open from September 12th, 2014 to January 15 th, 2015.</p>
+	          <p>KINOKI International Student Film Festival, in collaboration with Universidad Iberoamericana, Mexico City Campus, is now accepting entries for its 2015 edition. The annual competition, and the official student short film showcase, will take place from September 25th to October 2nth, 2015.</p>
+	          <p class="pshadow bolder">The call for entries will stay open until June 19th, 2015.</p>
 	          <p>The competition will be based on four different categories: 
 		          <ul class="categorias pshadow">
-					  <li>Fiction</li>
-					  <li>Documentary</li>
-					  <li>Animation</li>
-					  <li>Experimental</li>
+					  <li>Best Mexican Shortfilm</li>
+					  <li>Best International Shortfilm</li>
 		          </ul>
 	          </p>
 	          <p>

@@ -12,9 +12,11 @@
 	  <div class="small-11 small-centered large-12 columns">
 	      <h3 class="pshadow hideme">Presentación</h3>
 	      	<hr>
-	          <p>El Festival Internacional de Cine Universitario KINOKI fue creado en el 2004 por alumnos de la Universidad Iberoamericana debido a la necesidad de dar voz y difusión a los cineastas universitarios. <br>
-El nombre KINOKI está basado principalmente en la filosofía del cine-verdad (kino-pravda) perteneciente al cineasta soviético Dziga Vértov. Dicho pensamiento, en su calidad de emancipador, buscaba expresar una verdad más profunda que la que percibe el ojo humano a través del séptimo arte.<br>
-Por medio de la exhibición de cortometrajes de ficción, investigación documental, animación y de corte experimental, el Festival KINOKI ha promovido desde hace once años la cultura cinematográfica y el desarrollo de estudiantes universitarios con un interés en el cine.</p>		
+	          <p>
+	          	En 2004, estudiantes de la Universidad Iberoamericana crearon el primer Festival Internacional de Cine Universitario KINOKI. Inspirados en el "kino-pravda" (cine-verdad) de Dziga Vértov y en los pequeños equipos que filmaban los más recónditos lugares de la Unión Soviética, el festival siempre ha buscado acercar a la juventud con el séptimo arte. A lo largo de 11 años, el KINOKI ha tenido el objetivo de ofrecer un panorama general de las propuestas y tendencias de los estudiantes de cine alrededor del mundo.
+	          	<br>
+				El Kinoki siempre se ha mantenido como una iniciativa estudiantil dirigida a la misma comunidad de la que brota. De esta forma se ha buscado mantener correspondencia entre la realidad estudiantil y los diferentes aspectos del festival.
+	          </p>		
 	  </div>
 	</div>
 			
@@ -37,14 +39,12 @@ Director General, <span class="oblique">Edición 2015</span>
 	  <div class="small-11 small-centered large-12 columns">
 	      <h3 class="pshadow hideme">Convocatoria</h3>
 	      	<hr>
-	          <p>El Festival Internacional de Cine Universitario KINOKI, junto con la Universidad Iberoamericana Ciudad de México, convoca a todos los estudiantes a participar en la competencia y muestra oficial de cortometrajes universitarios en el marco de su decimoprimera edición, celebrada del 6 al 10 de abril del año 2015.</p>
-	          <p class="pshadow bolder">Convocatoria abierta del 12 de septiembre de 2014 al 15 de enero de 2015.</p>
+	          <p>El Festival Internacional de Cine Universitario KINOKI, junto con la Universidad Iberoamericana Ciudad de México, convoca a todos los estudiantes a participar en la competencia y muestra oficial de cortometrajes universitarios en el marco de su decimoprimera edición, celebrada del 28 septiembre al 02 de octubre del año 2015.</p>
+	          <p class="pshadow bolder">Convocatoria abierta hasta el 19 de junio de 2015.</p>
 	          <p>Las categorías de selección son: 
 		          <ul class="categorias pshadow">
-					  <li>Ficción</li>
-					  <li>Documental</li>
-					  <li>Animación</li>
-					  <li>Experimental</li>
+					  <li>Mejor Cortometraje <strong>Mexicano</strong></li>
+					  <li>Mejor Cortometraje <strong>Internacional</strong></li>
 		          </ul>
 	          </p>
 	          <p>Consulta las bases en la sección de <a data-scroll-nav='3'>Registro</a>.<br>

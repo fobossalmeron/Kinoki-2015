@@ -15,7 +15,7 @@
 		      			<h5>¿Hasta cuándo tengo para enviar mi corto?</h5>
 		      		</div>
 		      		
-		<p>La convocatoria para participar en la competencia oficial del Festival Internacional de Cine Universitario KINOKI 2015 se abre el <strong>12 de septiembre</strong> de 2014 y cierra el <strong>15 de enero del 2015</strong>.</p>
+		<p>La convocatoria para participar en la competencia oficial del Festival Internacional de Cine Universitario KINOKI 2015 cierra el <strong>19 de Junio del 2015</strong>.</p>
 		 
 					<div class="panel boxshadow">
 						<h5>¿Quién puede participar en la competencia?</h5>
@@ -42,6 +42,12 @@
 					
 <p>A pesar de que el festival tiene su origen en la Universidad Iberoamericana, el festival busca volverse un espacio en el que la comunidad estudiantil cinéfila del mundo se pueda reunir. Para esto, necesitamos también del apoyo de estudiantes de diferentes universidades para que así aporten diversidad y un verdadero sentimiento de unión. Todos aquellos interesados, sin importar dónde o qué estudien, están cordialmente invitados a colaborar en la realización del festival.</p>
 		       
+					<div class="panel boxshadow">
+						<h5>Si quiero asistir al Festival y no vivo en la Ciudad de México, ¿ofrecen algún apoyo?</h5>
+					</div>
+					
+<p>Aunque el festival no puede cubrir el traslado a la Ciudad de México, si tu cortometraje fue seleccionado, nos comprometemos a proveer las comidas y el transporte dentro de la ciudad. Si lo requieren también ofrecemos alojamiento en los hogares del staff del Festival, por lo cual el cupo es limitado.</p>
+
       </div>
     </div>
 

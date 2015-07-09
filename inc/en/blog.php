@@ -10,7 +10,7 @@
 
       <div class="row">
 	      <div class="small-11 small-centered large-12 columns">
-	      		<h3 class="pshadow">Visit our <a href="http://blog.festivalkinoki.com">Official Blog</a>.</h3>
+	      		<h3 class="pshadow">Visit our Official Blog.</h3>
 	      		<hr>
 	            <p>Stay updated on content from our festival.</p>
 	      </div>
@@ -21,41 +21,35 @@
 	  <div class="row orbitnoticias">
 		<div class="small-12 medium-centered columns">
 		   <ul class="example-orbit no-bullets" data-orbit>
-			   <li data-orbit-slide="headline-1">
+			    <li data-orbit-slide="headline-1">
 				    <div>
-						<a href="<?php echo $posts["post1en"]["postlink"];?>">
 							<div class="imgcontainer">		  
-						      <img class="noticia" src="<?php echo $posts["post1en"]["imagelink"]; ?>" alt="<?php echo $posts["post1en"]["title"]; ?>" />
+						      <img class="noticia" src="<?php echo $posts["post1"]["imagelink"]; ?>" alt="<?php echo $posts["post1"]["title"]; ?>" />
 							</div>
-						</a>
-					    <h3 class="caption"><?php echo $posts["post1en"]["title"]; ?></h3>
-					    <p class="caption"><?php echo $posts["post1en"]["caption"]; ?></p>
+					    <h3 class="caption"><?php echo $posts["post1"]["title"]; ?></h3>
+					    <p class="caption"><?php echo $posts["post1"]["caption"]; ?></p>
 					</div>
 				</li>
-				<?php/*
+
 			  <li data-orbit-slide="headline-2">
 					 <div>
-						<a href="<?php echo $posts["post2en"]["postlink"];?>">
 							<div class="imgcontainer">		  
-							  <img class="noticia" src="<?php echo $posts["post2en"]["imagelink"]; ?>" alt="<?php echo $posts["post2en"]["title"]; ?>" />
+							  <img class="noticia" src="<?php echo $posts["post2"]["imagelink"]; ?>" alt="<?php echo $posts["post2"]["title"]; ?>" />
 							</div>
-						</a>
-						<h3 class="caption"><?php echo $posts["post2en"]["title"]; ?></h3>
-						<p class="caption"><?php echo $posts["post2en"]["caption"]; ?></p>
+						<h3 class="caption"><?php echo $posts["post2"]["title"]; ?></h3>
+						<p class="caption"><?php echo $posts["post2"]["caption"]; ?></p>
 					</div>
 			  </li>
 			  
 			  <li data-orbit-slide="headline-3">
 				    <div>
-						<a href="<?php echo $posts["post3en"]["postlink"];?>">
 							<div class="imgcontainer">		  
-							    <img class="noticia" src="<?php echo $posts["post3en"]["imagelink"]; ?>" alt="<?php echo $posts["post3en"]["title"]; ?>" />
+							    <img class="noticia" src="<?php echo $posts["post3"]["imagelink"]; ?>" alt="<?php echo $posts["post3"]["title"]; ?>" />
 							</div>
-						</a>
-						<h3 class="caption"><?php echo $posts["post3en"]["title"]; ?></h3>
-						<p class="caption"><?php echo $posts["post3en"]["caption"]; ?></p>
+						<h3 class="caption"><?php echo $posts["post3"]["title"]; ?></h3>
+						<p class="caption"><?php echo $posts["post3"]["caption"]; ?></p>
 					</div>
-			  </li> */?>
+			  </li>
 			</ul>
         </div>
       </div>

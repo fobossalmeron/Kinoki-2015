@@ -19,34 +19,26 @@
       <div class="small-11 small-centered columns">
 			<ul class="small-block-grid-2 medium-block-grid-4">
 			  <li>
-					<a href="mailto:contacto@festivalkinoki.com" target="_blank">
-						<div class="sociallogo">
+					<div class="sociallogo">
 						<img src="../../images/social/maillogo.svg" alt="Mail">
-						</div>	
-					</a>		  
+					</div>	
 			  </li>
 			  
 			  <li>
-					<a href="https://twitter.com/Kinokicine">
-						<div class="sociallogo">	
-							<img src="../../images/social/twlogo.svg" alt="Twitter">
-													</div>
-					</a>
+					<div class="sociallogo">	
+						<img src="../../images/social/twlogo.svg" alt="Twitter">
+					</div>
 			  </li>
 			  
 			  <li>
-					<a href="https://www.facebook.com/FestivalKinoki">
 						<div class="sociallogo">
-							<img src="../../images/social/fblogo.svg" alt="Facebook">						</div>
-					</a>
+							<img src="../../images/social/fblogo.svg" alt="Facebook">						
+						</div>
 			  </li>
 			  <li>
-
-					<a href="http://blog.festivalkinoki.com/">
 						<div class="sociallogo">
 							<img src="../../images/social/bloglogo.svg" alt="Blog">
 						</div>
-					</a>
 			 </li>
 		</ul>
 		
@@ -72,8 +64,8 @@
 					diego.rodriguez@festivalkinoki.com</p>
 
 			  <h5 class="textshadow-blanco">Production:</h5>
-			    <p>Federico González <br>
-				  	federico.gonzalez@festivalkinoki.com</p>
+			    <p>Jorge de la Tijera<br>
+					jorge.tijera@festivalkinoki.com</p>
 
 			  <h5 class="textshadow-blanco">Programming:</h5>
 					<p>César Ortíz <br>
